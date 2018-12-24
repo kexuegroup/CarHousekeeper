@@ -12,25 +12,28 @@
   position:absolute;
   z-index:0;
 }
-#u462_img {
+#u218_img {
+  border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:900px;
   height:1463px;
 }
-#u462 {
+#u218 {
+  border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:900px;
   height:1463px;
 }
-#u463 {
+#u218_text {
+  border-width:0px;
   position:absolute;
-  left:2px;
-  top:724px;
-  width:896px;
+  left:0px;
+  top:0px;
+  width:0px;
   visibility:hidden;
   word-wrap:break-word;
 }
