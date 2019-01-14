@@ -765,7 +765,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'微软雅黑';
+  font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -780,7 +780,7 @@
   top:359px;
   width:373px;
   height:50px;
-  font-family:'微软雅黑';
+  font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -816,7 +816,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'微软雅黑';
+  font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
   text-align:left;
@@ -829,7 +829,7 @@
   top:359px;
   width:128px;
   height:50px;
-  font-family:'微软雅黑';
+  font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
   text-align:left;
@@ -874,7 +874,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'微软雅黑';
+  font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -889,7 +889,7 @@
   top:408px;
   width:373px;
   height:50px;
-  font-family:'微软雅黑';
+  font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -925,7 +925,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'微软雅黑';
+  font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
   text-align:left;
@@ -938,7 +938,7 @@
   top:408px;
   width:128px;
   height:50px;
-  font-family:'微软雅黑';
+  font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
   text-align:left;
@@ -1473,6 +1473,7 @@
   top:30px;
   width:100px;
   height:25px;
+  font-size:14px;
   text-align:center;
 }
 #u565_text {
@@ -1574,6 +1575,7 @@
   top:55px;
   width:100px;
   height:25px;
+  font-size:14px;
   text-align:center;
 }
 #u569_text {
@@ -1599,6 +1601,7 @@
   top:55px;
   width:103px;
   height:25px;
+  font-size:14px;
 }
 #u570_text {
   border-width:0px;
@@ -1674,6 +1677,7 @@
   top:80px;
   width:100px;
   height:46px;
+  font-size:14px;
   text-align:center;
 }
 #u573_text {
@@ -1699,6 +1703,7 @@
   top:80px;
   width:103px;
   height:46px;
+  font-size:14px;
 }
 #u574_text {
   border-width:0px;
@@ -1723,6 +1728,7 @@
   top:80px;
   width:345px;
   height:46px;
+  font-size:14px;
   text-align:left;
 }
 #u575_text {
@@ -1773,6 +1779,7 @@
   top:126px;
   width:100px;
   height:67px;
+  font-size:14px;
   text-align:center;
 }
 #u577_text {
@@ -1823,13 +1830,14 @@
   top:126px;
   width:345px;
   height:67px;
+  font-size:14px;
   text-align:left;
 }
 #u579_text {
   border-width:0px;
   position:absolute;
   left:2px;
-  top:2px;
+  top:12px;
   width:341px;
   word-wrap:break-word;
 }
@@ -1873,15 +1881,15 @@
   top:193px;
   width:100px;
   height:45px;
+  font-size:14px;
   text-align:center;
 }
 #u581_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:2px;
+  top:12px;
+  width:96px;
   word-wrap:break-word;
 }
 #u582_img {
@@ -1904,10 +1912,9 @@
 #u582_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:2px;
+  top:12px;
+  width:99px;
   word-wrap:break-word;
 }
 #u583_img {
@@ -1925,15 +1932,15 @@
   top:193px;
   width:345px;
   height:45px;
+  font-size:14px;
   text-align:left;
 }
 #u583_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:2px;
+  top:12px;
+  width:341px;
   word-wrap:break-word;
 }
 #u584_img {
@@ -1976,6 +1983,7 @@
   top:238px;
   width:100px;
   height:45px;
+  font-size:14px;
   text-align:center;
 }
 #u585_text {
@@ -2028,6 +2036,7 @@
   top:238px;
   width:345px;
   height:45px;
+  font-size:14px;
   text-align:left;
 }
 #u587_text {
@@ -2079,6 +2088,7 @@
   top:283px;
   width:100px;
   height:45px;
+  font-size:14px;
   text-align:center;
 }
 #u589_text {
@@ -2131,6 +2141,7 @@
   top:283px;
   width:345px;
   height:45px;
+  font-size:14px;
   text-align:left;
 }
 #u591_text {
