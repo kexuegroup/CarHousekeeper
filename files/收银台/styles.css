@@ -1387,7 +1387,7 @@
 #u653 {
   border-width:0px;
   position:absolute;
-  left:693px;
+  left:710px;
   top:304px;
   width:57px;
   height:16px;
@@ -1974,9 +1974,10 @@
 #u671_text {
   border-width:0px;
   position:absolute;
-  left:2px;
-  top:42px;
-  width:202px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u672_img {
