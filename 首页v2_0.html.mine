@@ -1,0 +1,1409 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>首页V2.0</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/首页v2_0/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/prototypePre.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/prototypePost.js"></script>
+    <script src="files/首页v2_0/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (组 合) -->
+      <div id="u2569" class="ax_default" data-left="20" data-top="20" data-width="430" data-height="866">
+
+        <!-- Unnamed (组 合) -->
+        <div id="u2570" class="ax_default" data-left="20" data-top="20" data-width="430" data-height="866">
+
+          <!-- Unnamed (图片) -->
+          <div id="u2571" class="ax_default image">
+            <img id="u2571_img" class="img " src="images/启动v2_0/u2540.png"/>
+          </div>
+
+          <!-- Unnamed (组 合) -->
+          <div id="u2572" class="ax_default" data-left="50" data-top="120" data-width="375" data-height="20">
+
+            <!-- Unnamed (组 合) -->
+            <div id="u2573" class="ax_default" data-left="50" data-top="120" data-width="375" data-height="20">
+
+              <!-- Unnamed (矩形) -->
+              <div id="u2574" class="ax_default shape2">
+                <div id="u2574_div" class=""></div>
+              </div>
+
+              <!-- Unnamed (图片) -->
+              <div id="u2575" class="ax_default image2">
+                <img id="u2575_img" class="img " src="images/首页v2_0/u2575.png"/>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Unnamed (组 合) -->
+        <div id="u2576" class="ax_default" data-left="50" data-top="736" data-width="375" data-height="50">
+
+          <!-- Unnamed (组 合) -->
+          <div id="u2577" class="ax_default" data-left="50" data-top="736" data-width="375" data-height="50">
+
+            <!-- Unnamed (矩形) -->
+            <div id="u2578" class="ax_default box_1">
+              <div id="u2578_div" class=""></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Unnamed (组 合) -->
+        <div id="u2579" class="ax_default" data-left="50" data-top="736" data-width="375" data-height="50">
+
+          <!-- Unnamed (矩形) -->
+          <div id="u2580" class="ax_default box_1 selected" selectiongroup="标签栏-2">
+            <div id="u2580_div" class="selected"></div>
+            <div id="u2580_text" class="text ">
+              <p style="font-size:24px;"><span style="font-family:'FontAwesome Regular', 'FontAwesome';font-weight:400;"><br></span></p><p style="font-size:12px;"><span style="font-family:'微软雅黑';font-weight:400;">首页</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u2581" class="ax_default box_1" selectiongroup="标签栏-2">
+            <div id="u2581_div" class=""></div>
+            <div id="u2581_text" class="text ">
+              <p style="font-size:20px;"><span style="font-family:'FontAwesome Regular', 'FontAwesome';font-weight:400;"><br></span></p><p style="font-size:12px;"><span style="font-family:'微软雅黑';font-weight:400;">服务</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u2582" class="ax_default box_1" selectiongroup="标签栏-2">
+            <div id="u2582_div" class=""></div>
+            <div id="u2582_text" class="text ">
+              <p style="font-size:20px;"><span style="font-family:'FontAwesome Regular', 'FontAwesome';font-weight:400;"><br></span></p><p style="font-size:12px;"><span style="font-family:'微软雅黑';font-weight:400;">商城</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u2583" class="ax_default box_1" selectiongroup="标签栏-2">
+            <div id="u2583_div" class=""></div>
+            <div id="u2583_text" class="text ">
+              <p style="font-size:24px;"><span style="font-family:'FontAwesome Regular', 'FontAwesome';font-weight:400;"><br></span></p><p style="font-size:12px;"><span style="font-family:'微软雅黑';font-weight:400;">车圈</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u2584" class="ax_default box_1" selectiongroup="标签栏-2">
+            <div id="u2584_div" class=""></div>
+            <div id="u2584_text" class="text ">
+              <p style="font-size:20px;"><span style="font-family:'FontAwesome Regular', 'FontAwesome';font-weight:400;"><br></span></p><p style="font-size:12px;"><span style="font-family:'微软雅黑';font-weight:400;">我的</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (图片) -->
+          <div id="u2585" class="ax_default image">
+            <img id="u2585_img" class="img " src="images/首页v2_0/u2585.png"/>
+          </div>
+
+          <!-- Unnamed (图片) -->
+          <div id="u2586" class="ax_default image">
+            <img id="u2586_img" class="img " src="images/首页v2_0/u2586.png"/>
+          </div>
+
+          <!-- Unnamed (图片) -->
+          <div id="u2587" class="ax_default image">
+            <img id="u2587_img" class="img " src="images/首页v2_0/u2587.png"/>
+          </div>
+
+          <!-- Unnamed (图片) -->
+          <div id="u2588" class="ax_default image">
+            <img id="u2588_img" class="img " src="images/首页v2_0/u2588.png"/>
+          </div>
+
+          <!-- Unnamed (图片) -->
+          <div id="u2589" class="ax_default image">
+            <img id="u2589_img" class="img " src="images/首页v2_0/u2589.png"/>
+          </div>
+        </div>
+      </div>
+
+      <!-- 常用轮播图 (动态面板) -->
+      <div id="u2590" class="ax_default" data-label="常用轮播图">
+        <div id="u2590_state0" class="panel_state" data-label="State1" style="">
+          <div id="u2590_state0_content" class="panel_state_content">
+
+            <!-- 轮播区域 (动态面板) -->
+            <div id="u2591" class="ax_default" data-label="轮播区域">
+              <div id="u2591_state0" class="panel_state" data-label="State1" style="">
+                <div id="u2591_state0_content" class="panel_state_content">
+
+                  <!-- Unnamed (矩形) -->
+                  <div id="u2592" class="ax_default box_11">
+                    <div id="u2592_div" class=""></div>
+                    <div id="u2592_text" class="text ">
+                      <p><span>Banner 1</span></p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div id="u2591_state1" class="panel_state" data-label="State2" style="visibility: hidden;">
+                <div id="u2591_state1_content" class="panel_state_content">
+
+                  <!-- Unnamed (矩形) -->
+                  <div id="u2593" class="ax_default box_11">
+                    <div id="u2593_div" class=""></div>
+                    <div id="u2593_text" class="text ">
+                      <p><span>Banner 2</span></p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div id="u2591_state2" class="panel_state" data-label="State3" style="visibility: hidden;">
+                <div id="u2591_state2_content" class="panel_state_content">
+
+                  <!-- Unnamed (矩形) -->
+                  <div id="u2594" class="ax_default box_11">
+                    <div id="u2594_div" class=""></div>
+                    <div id="u2594_text" class="text ">
+                      <p><span>Banner 3</span></p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div id="u2591_state3" class="panel_state" data-label="State4" style="visibility: hidden;">
+                <div id="u2591_state3_content" class="panel_state_content">
+
+                  <!-- Unnamed (矩形) -->
+                  <div id="u2595" class="ax_default box_11">
+                    <div id="u2595_div" class=""></div>
+                    <div id="u2595_text" class="text ">
+                      <p><span>Banner 4</span></p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- 轮播指示 (组 合) -->
+            <div id="u2596" class="ax_default" data-label="轮播指示" data-left="162" data-top="153" data-width="51" data-height="8">
+
+              <!-- 1 (椭圆形) -->
+              <div id="u2597" class="ax_default _形状 selected" data-label="1" selectiongroup="轮播指示">
+                <img id="u2597_img" class="img " src="images/首页v2_0/1_u2597_selected.png"/>
+              </div>
+
+              <!-- 2 (椭圆形) -->
+              <div id="u2598" class="ax_default _形状" data-label="2" selectiongroup="轮播指示">
+                <img id="u2598_img" class="img " src="images/首页v2_0/1_u2597.png"/>
+              </div>
+
+              <!-- 3 (椭圆形) -->
+              <div id="u2599" class="ax_default _形状" data-label="3" selectiongroup="轮播指示">
+                <img id="u2599_img" class="img " src="images/首页v2_0/1_u2597.png"/>
+              </div>
+
+              <!-- 4 (椭圆形) -->
+              <div id="u2600" class="ax_default _形状" data-label="4" selectiongroup="轮播指示">
+                <img id="u2600_img" class="img " src="images/首页v2_0/1_u2597.png"/>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (组 合) -->
+      <div id="u2601" class="ax_default" data-left="70" data-top="259" data-width="335" data-height="77">
+
+        <!-- Unnamed (组 合) -->
+        <div id="u2602" class="ax_default" data-left="70" data-top="259" data-width="335" data-height="77">
+
+          <!-- Unnamed (矩形) -->
+          <div id="u2603" class="ax_default box_12">
+            <div id="u2603_div" class=""></div>
+          </div>
+        </div>
+
+        <!-- Unnamed (占位符) -->
+        <div id="u2604" class="ax_default placeholder">
+          <img id="u2604_img" class="img " src="images/首页v2_0/u2604.png"/>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2605" class="ax_default label">
+          <div id="u2605_div" class=""></div>
+          <div id="u2605_text" class="text ">
+            <p><span>特惠洗车</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (占位符) -->
+        <div id="u2606" class="ax_default placeholder">
+          <img id="u2606_img" class="img " src="images/首页v2_0/u2604.png"/>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2607" class="ax_default label">
+          <div id="u2607_div" class=""></div>
+          <div id="u2607_text" class="text ">
+            <p><span>省心保养</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (占位符) -->
+        <div id="u2608" class="ax_default placeholder">
+          <img id="u2608_img" class="img " src="images/首页v2_0/u2604.png"/>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2609" class="ax_default label">
+          <div id="u2609_div" class=""></div>
+          <div id="u2609_text" class="text ">
+            <p><span>爱车估价</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2610" class="ax_default label">
+          <div id="u2610_div" class=""></div>
+          <div id="u2610_text" class="text ">
+            <p><span>违章查询</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (占位符) -->
+        <div id="u2611" class="ax_default placeholder">
+          <img id="u2611_img" class="img " src="images/首页v2_0/u2604.png"/>
+        </div>
+      </div>
+
+      <!-- Unnamed (组 合) -->
+      <div id="u2612" class="ax_default" data-left="49" data-top="466" data-width="375" data-height="119">
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2613" class="ax_default box_1">
+          <div id="u2613_div" class=""></div>
+        </div>
+
+        <!-- Unnamed (组 合) -->
+        <div id="u2614" class="ax_default" data-left="49" data-top="466" data-width="375" data-height="34">
+
+          <!-- Unnamed (矩形) -->
+          <div id="u2615" class="ax_default label">
+            <div id="u2615_div" class=""></div>
+            <div id="u2615_text" class="text ">
+              <p><span>商品优选</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (水平线) -->
+          <div id="u2616" class="ax_default line">
+            <img id="u2616_img" class="img " src="images/首页v2_0/u2616.png"/>
+          </div>
+        </div>
+
+        <!-- Unnamed (组 合) -->
+        <div id="u2617" class="ax_default" data-left="64" data-top="507" data-width="342" data-height="70">
+
+          <!-- Unnamed (图片) -->
+          <div id="u2618" class="ax_default _图片">
+            <img id="u2618_img" class="img " src="images/首页v2_0/u2618.png"/>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u2619" class="ax_default label">
+            <div id="u2619_div" class=""></div>
+            <div id="u2619_text" class="text ">
+              <p><span>￥29.0</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (水平线) -->
+          <div id="u2620" class="ax_default line">
+            <img id="u2620_img" class="img " src="images/首页v2_0/u2620.png"/>
+            <div id="u2620_text" class="text ">
+              <p><span>￥38.0</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (图片) -->
+          <div id="u2621" class="ax_default _图片">
+            <img id="u2621_img" class="img " src="images/首页v2_0/u2618.png"/>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u2622" class="ax_default label">
+            <div id="u2622_div" class=""></div>
+            <div id="u2622_text" class="text ">
+              <p><span>￥29.0</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (水平线) -->
+          <div id="u2623" class="ax_default line">
+            <img id="u2623_img" class="img " src="images/首页v2_0/u2620.png"/>
+            <div id="u2623_text" class="text ">
+              <p><span>￥38.0</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (图片) -->
+          <div id="u2624" class="ax_default _图片">
+            <img id="u2624_img" class="img " src="images/首页v2_0/u2618.png"/>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u2625" class="ax_default label">
+            <div id="u2625_div" class=""></div>
+            <div id="u2625_text" class="text ">
+              <p><span>￥29.0</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (水平线) -->
+          <div id="u2626" class="ax_default line">
+            <img id="u2626_img" class="img " src="images/首页v2_0/u2620.png"/>
+            <div id="u2626_text" class="text ">
+              <p><span>￥38.0</span></p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (组 合) -->
+      <div id="u2627" class="ax_default" data-left="49" data-top="584" data-width="375" data-height="153">
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2628" class="ax_default box_1">
+          <div id="u2628_div" class=""></div>
+        </div>
+
+        <!-- Unnamed (组 合) -->
+        <div id="u2629" class="ax_default" data-left="49" data-top="585" data-width="375" data-height="36">
+
+          <!-- Unnamed (矩形) -->
+          <div id="u2630" class="ax_default label">
+            <div id="u2630_div" class=""></div>
+            <div id="u2630_text" class="text ">
+              <p><span>门店推荐</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (水平线) -->
+          <div id="u2631" class="ax_default line">
+            <img id="u2631_img" class="img " src="images/首页v2_0/u2616.png"/>
+          </div>
+        </div>
+
+        <!-- Unnamed (组 合) -->
+        <div id="u2632" class="ax_default" data-left="64" data-top="630" data-width="360" data-height="44">
+
+          <!-- Unnamed (矩形) -->
+          <div id="u2633" class="ax_default box_22">
+            <div id="u2633_div" class=""></div>
+          </div>
+
+          <!-- Unnamed (图片) -->
+          <div id="u2634" class="ax_default image1">
+            <img id="u2634_img" class="img " src="images/首页v2_0/u2634.png"/>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u2635" class="ax_default label">
+            <div id="u2635_div" class=""></div>
+            <div id="u2635_text" class="text ">
+              <p><span>一点车合作门店</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u2636" class="ax_default label">
+            <div id="u2636_div" class=""></div>
+            <div id="u2636_text" class="text ">
+              <p><span>深圳市福田区颂德国际大厦 1001号&nbsp; 8.88km</span></p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Unnamed (组 合) -->
+        <div id="u2637" class="ax_default" data-left="64" data-top="682" data-width="360" data-height="44">
+
+          <!-- Unnamed (矩形) -->
+          <div id="u2638" class="ax_default box_22">
+            <div id="u2638_div" class=""></div>
+          </div>
+
+          <!-- Unnamed (图片) -->
+          <div id="u2639" class="ax_default image1">
+            <img id="u2639_img" class="img " src="images/首页v2_0/u2634.png"/>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u2640" class="ax_default label">
+            <div id="u2640_div" class=""></div>
+            <div id="u2640_text" class="text ">
+              <p><span>一点车合作门店</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u2641" class="ax_default label">
+            <div id="u2641_div" class=""></div>
+            <div id="u2641_text" class="text ">
+              <p><span>深圳市福田区颂德国际大厦 1001号&nbsp; 8.88km</span></p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2642" class="ax_default label">
+        <div id="u2642_div" class=""></div>
+        <div id="u2642_text" class="text ">
+          <p><span>更多&gt;</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2643" class="ax_default label">
+        <div id="u2643_div" class=""></div>
+        <div id="u2643_text" class="text ">
+          <p><span>更多&gt;</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (组 合) -->
+      <div id="u2644" class="ax_default" data-left="49" data-top="344" data-width="375" data-height="123">
+
+        <!-- Unnamed (组 合) -->
+        <div id="u2645" class="ax_default" data-left="49" data-top="344" data-width="375" data-height="123">
+
+          <!-- Unnamed (矩形) -->
+          <div id="u2646" class="ax_default box_12">
+            <div id="u2646_div" class=""></div>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2647" class="ax_default box_2">
+          <div id="u2647_div" class=""></div>
+          <div id="u2647_text" class="text ">
+            <p style="font-size:14px;"><span>车主贷款</span></p><p style="font-size:11px;"><span>额度更高 速度更快</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2648" class="ax_default box_2">
+          <div id="u2648_div" class=""></div>
+          <div id="u2648_text" class="text ">
+            <p style="font-size:14px;"><span>爱车出租</span></p><p style="font-size:11px;"><span>随时随地 随需而用</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2649" class="ax_default box_2">
+          <div id="u2649_div" class=""></div>
+          <div id="u2649_text" class="text ">
+            <p style="font-size:14px;"><span>车险办理</span></p><p style="font-size:11px;"><span>车险报价 省心代办</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2650" class="ax_default box_2">
+          <div id="u2650_div" class=""></div>
+          <div id="u2650_text" class="text ">
+            <p style="font-size:14px;"><span>车辆置换</span></p><p style="font-size:11px;"><span>一置千金 换然一新</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u2651" class="ax_default image">
+        <img id="u2651_img" class="img " src="images/首页v2_0/u2651.png"/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u2652" class="ax_default image">
+        <img id="u2652_img" class="img " src="images/首页v2_0/u2652.png"/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2653" class="ax_default label">
+        <div id="u2653_div" class=""></div>
+        <div id="u2653_text" class="text ">
+          <p><span>深圳 </span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (组 合) -->
+      <div id="u2654" class="ax_default" data-left="483" data-top="82" data-width="301" data-height="140">
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2655" class="ax_default _默认样式">
+          <div id="u2655_div" class=""></div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2656" class="ax_default _默认样式 selected" selectiongroup="tab-basic-bnt">
+          <div id="u2656_div" class="selected"></div>
+          <div id="u2656_text" class="text ">
+            <p><span>取消</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2657" class="ax_default _默认样式 selected" selectiongroup="tab-basic-bnt">
+          <div id="u2657_div" class="selected"></div>
+          <div id="u2657_text" class="text ">
+            <p><span>联系客服</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2658" class="ax_default _默认样式 selected" selectiongroup="tab-basic-bnt">
+          <div id="u2658_div" class="selected"></div>
+          <div id="u2658_text" class="text ">
+            <p><span>10101618</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2659" class="ax_default _默认样式 selected" selectiongroup="tab-basic-bnt">
+          <div id="u2659_div" class="selected"></div>
+          <div id="u2659_text" class="text ">
+            <p><span>拨号</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (组 合) -->
+      <div id="u2660" class="ax_default" data-left="483" data-top="383" data-width="301" data-height="140">
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2661" class="ax_default _默认样式">
+          <div id="u2661_div" class=""></div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2662" class="ax_default _默认样式 selected" selectiongroup="tab-basic-bnt">
+          <div id="u2662_div" class="selected"></div>
+          <div id="u2662_text" class="text ">
+            <p><span>禁止</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2663" class="ax_default _默认样式 selected" selectiongroup="tab-basic-bnt">
+          <div id="u2663_div" class="selected"></div>
+          <div id="u2663_text" class="text ">
+            <p><span>温馨提示</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2664" class="ax_default _默认样式 selected" selectiongroup="tab-basic-bnt">
+          <div id="u2664_div" class="selected"></div>
+          <div id="u2664_text" class="text ">
+            <p><span>“一点车”需要使用您的位置权限，以便提供更好的车主体验，您是否允许</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2665" class="ax_default _默认样式 selected" selectiongroup="tab-basic-bnt">
+          <div id="u2665_div" class="selected"></div>
+          <div id="u2665_text" class="text ">
+            <p><span>允许</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (组 合) -->
+      <div id="u2666" class="ax_default" data-left="483" data-top="552" data-width="301" data-height="225">
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2667" class="ax_default _默认样式">
+          <div id="u2667_div" class=""></div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2668" class="ax_default _默认样式 selected" selectiongroup="tab-basic-bnt">
+          <div id="u2668_div" class="selected"></div>
+          <div id="u2668_text" class="text ">
+            <p><span>打电话</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2669" class="ax_default _默认样式 selected" selectiongroup="tab-basic-bnt">
+          <div id="u2669_div" class="selected"></div>
+          <div id="u2669_text" class="text ">
+            <p><span>一点车合作门店</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2670" class="ax_default _默认样式 selected" selectiongroup="tab-basic-bnt">
+          <div id="u2670_div" class="selected"></div>
+          <div id="u2670_text" class="text ">
+            <p><span>营业时间为：9:00~18:00</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2671" class="ax_default _默认样式 selected" selectiongroup="tab-basic-bnt">
+          <div id="u2671_div" class="selected"></div>
+          <div id="u2671_text" class="text ">
+            <p><span>到这里</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2672" class="ax_default _默认样式 selected" selectiongroup="tab-basic-bnt">
+          <div id="u2672_div" class="selected"></div>
+          <div id="u2672_text" class="text ">
+            <p><span>取消</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (表格) -->
+      <div id="u2673" class="ax_default">
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2674" class="ax_default table_cell">
+          <img id="u2674_img" class="img " src="images/我的爱车/u1517.png"/>
+          <div id="u2674_text" class="text ">
+            <p><span style="color:#515151;">用例名称</span><span style="color:#FF0000;">*</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2675" class="ax_default table_cell">
+          <img id="u2675_img" class="img " src="images/我的爱车/u1518.png"/>
+          <div id="u2675_text" class="text ">
+            <p><span>首页</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2676" class="ax_default table_cell">
+          <img id="u2676_img" class="img " src="images/我的爱车/u1519.png"/>
+          <div id="u2676_text" class="text ">
+            <p><span style="color:#515151;">用例编号</span><span style="color:#FF0000;">*</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2677" class="ax_default table_cell">
+          <img id="u2677_img" class="img " src="images/我的爱车/u1520.png"/>
+          <div id="u2677_text" class="text ">
+            <p><span>M01首页</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2678" class="ax_default table_cell">
+          <img id="u2678_img" class="img " src="images/我的爱车/u1519.png"/>
+          <div id="u2678_text" class="text ">
+            <p><span style="color:#515151;">操作角色</span><span style="color:#FF0000;">*</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2679" class="ax_default table_cell">
+          <img id="u2679_img" class="img " src="images/我的爱车/u1520.png"/>
+          <div id="u2679_text" class="text ">
+            <p><span>车主</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2680" class="ax_default table_cell">
+          <img id="u2680_img" class="img " src="images/我的爱车/u1519.png"/>
+          <div id="u2680_text" class="text ">
+            <p><span style="color:#515151;">优先级</span><span style="color:#FF0000;">*</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2681" class="ax_default table_cell">
+          <img id="u2681_img" class="img " src="images/我的爱车/u1520.png"/>
+          <div id="u2681_text" class="text ">
+            <p><span>高</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2682" class="ax_default table_cell">
+          <img id="u2682_img" class="img " src="images/我的爱车/u1519.png"/>
+          <div id="u2682_text" class="text ">
+            <p><span style="color:#515151;">功能目标</span><span style="color:#FF0000;">*</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2683" class="ax_default table_cell">
+          <img id="u2683_img" class="img " src="images/我的爱车/u1520.png"/>
+          <div id="u2683_text" class="text ">
+            <p><span>正常获取后台配置的服务和产品</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2684" class="ax_default table_cell">
+          <img id="u2684_img" class="img " src="images/我的爱车/u1527.png"/>
+          <div id="u2684_text" class="text ">
+            <p><span>前置条件</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u2685" class="ax_default table_cell">
+          <img id="u2685_img" class="img " src="images/我的爱车/u1528.png"/>
+        </div>
+      </div>
+
+      <!-- Unnamed (组 合) -->
+      <div id="u2686" class="ax_default" data-left="800" data-top="185" data-width="679" data-height="1139">
+
+        <!-- Unnamed (表格) -->
+        <div id="u2687" class="ax_default">
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2688" class="ax_default _需求字体">
+            <img id="u2688_img" class="img " src="images/添加车辆/u1572.png"/>
+            <div id="u2688_text" class="text ">
+              <p><span>编号</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2689" class="ax_default _需求字体">
+            <img id="u2689_img" class="img " src="images/首页v2_0/u2689.png"/>
+            <div id="u2689_text" class="text ">
+              <p><span>名称</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2690" class="ax_default _需求字体">
+            <img id="u2690_img" class="img " src="images/首页v2_0/u2690.png"/>
+            <div id="u2690_text" class="text ">
+              <p><span>需求描述</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2691" class="ax_default _需求字体">
+            <img id="u2691_img" class="img " src="images/我的爱车/u1534.png"/>
+            <div id="u2691_text" class="text ">
+              <p><span>备注</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2692" class="ax_default _需求字体">
+            <img id="u2692_img" class="img " src="images/文档修正记录/u85.png"/>
+            <div id="u2692_text" class="text ">
+              <p><span>1</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2693" class="ax_default _需求字体">
+            <img id="u2693_img" class="img " src="images/首页v2_0/u2693.png"/>
+            <div id="u2693_text" class="text ">
+              <p><span>页面载入</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2694" class="ax_default _需求字体">
+            <img id="u2694_img" class="img " src="images/首页v2_0/u2694.png"/>
+            <div id="u2694_text" class="text ">
+              <p><span>1.新用户注册成功后跳转到首页并弹窗提示是否获取位置信息；</span></p><p><span>2.点击允许将调用系统的定位服务；</span></p><p><span>3.若用户点击禁止，下次登录后继续弹框提示，用户操作定位授权；</span></p><p><span>4.用户登录后记录访问日志“用户ID、用户IP、登录时间、访问开始时间、访问结束时间、定位信息”；</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2695" class="ax_default table_cell">
+            <img id="u2695_img" class="img " src="images/首页v2_0/u2695.png"/>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2696" class="ax_default _需求字体">
+            <img id="u2696_img" class="img " src="images/添加车辆/u1596.png"/>
+            <div id="u2696_text" class="text ">
+              <p><span>2</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2697" class="ax_default _需求字体">
+            <img id="u2697_img" class="img " src="images/首页v2_0/u2697.png"/>
+            <div id="u2697_text" class="text ">
+              <p><span>游客访问</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2698" class="ax_default _需求字体">
+            <img id="u2698_img" class="img " src="images/首页v2_0/u2698.png"/>
+            <div id="u2698_text" class="text ">
+              <p><span>1.除（省心保养，违章查询）要求登录，没有登录时直接跳转到登录页面，其余的可以直接访问；</span></p><p><span>2.游客访问后记录访问日志“用户IP、访问开始时间、访问结束时间、定位信息”</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2699" class="ax_default table_cell">
+            <img id="u2699_img" class="img " src="images/添加车辆/u1599.png"/>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2700" class="ax_default _需求字体">
+            <img id="u2700_img" class="img " src="images/添加车辆/u1596.png"/>
+            <div id="u2700_text" class="text ">
+              <p><span>3</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2701" class="ax_default _需求字体">
+            <img id="u2701_img" class="img " src="images/首页v2_0/u2697.png"/>
+            <div id="u2701_text" class="text ">
+              <p><span>Banner模块</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2702" class="ax_default _需求字体">
+            <img id="u2702_img" class="img " src="images/首页v2_0/u2698.png"/>
+            <div id="u2702_text" class="text ">
+              <p><span>1.运营相关活动Banner；</span></p><p><span>2.5秒自动切换；</span></p><p><span>3.Banner显示内容由后台配置；</span></p><p><span>4.Slogan“一点车重磅上线</span><span style="color:#333333;">”；</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2703" class="ax_default table_cell">
+            <img id="u2703_img" class="img " src="images/添加车辆/u1599.png"/>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2704" class="ax_default _需求字体">
+            <img id="u2704_img" class="img " src="images/加油站/u1735.png"/>
+            <div id="u2704_text" class="text ">
+              <p><span>4</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2705" class="ax_default _需求字体">
+            <img id="u2705_img" class="img " src="images/首页v2_0/u2705.png"/>
+            <div id="u2705_text" class="text ">
+              <p><span>定位</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2706" class="ax_default _需求字体">
+            <img id="u2706_img" class="img " src="images/首页v2_0/u2706.png"/>
+            <div id="u2706_text" class="text ">
+              <p><span>1.定位自动获取；</span></p><p><span>2.定位手动选择；</span></p><p><span>3.点击跳转到城市定位页面；</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2707" class="ax_default table_cell">
+            <img id="u2707_img" class="img " src="images/首页v2_0/u2707.png"/>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2708" class="ax_default _需求字体">
+            <img id="u2708_img" class="img " src="images/添加车辆/u1584.png"/>
+            <div id="u2708_text" class="text ">
+              <p><span>5</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2709" class="ax_default _需求字体">
+            <img id="u2709_img" class="img " src="images/首页v2_0/u2709.png"/>
+            <div id="u2709_text" class="text ">
+              <p><span>联系客服</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2710" class="ax_default _需求字体">
+            <img id="u2710_img" class="img " src="images/首页v2_0/u2710.png"/>
+            <div id="u2710_text" class="text ">
+              <p><span>1.点击联系客服，弹窗提示拨打电话10101618；</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2711" class="ax_default table_cell">
+            <img id="u2711_img" class="img " src="images/添加车辆/u1587.png"/>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2712" class="ax_default _需求字体">
+            <img id="u2712_img" class="img " src="images/添加车辆/u1576.png"/>
+            <div id="u2712_text" class="text ">
+              <p><span>6</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2713" class="ax_default _需求字体">
+            <img id="u2713_img" class="img " src="images/首页v2_0/u2713.png"/>
+            <div id="u2713_text" class="text ">
+              <p><span>服务模块</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2714" class="ax_default _需求字体">
+            <img id="u2714_img" class="img " src="images/首页v2_0/u2714.png"/>
+            <div id="u2714_text" class="text ">
+              <p><span>1.平台的四大服务模块；</span></p><p><span>2.具体内容和图标后台配置显示；</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2715" class="ax_default table_cell">
+            <img id="u2715_img" class="img " src="images/我的爱车/u1538.png"/>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2716" class="ax_default _需求字体">
+            <img id="u2716_img" class="img " src="images/添加车辆/u1584.png"/>
+            <div id="u2716_text" class="text ">
+              <p><span>7</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2717" class="ax_default _需求字体">
+            <img id="u2717_img" class="img " src="images/首页v2_0/u2709.png"/>
+            <div id="u2717_text" class="text ">
+              <p><span>特惠洗车</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2718" class="ax_default _需求字体">
+            <img id="u2718_img" class="img " src="images/首页v2_0/u2710.png"/>
+            <div id="u2718_text" class="text ">
+              <p><span>1.点击“特惠洗车”跳转到洗车页面；</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2719" class="ax_default table_cell">
+            <img id="u2719_img" class="img " src="images/添加车辆/u1587.png"/>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2720" class="ax_default _需求字体">
+            <img id="u2720_img" class="img " src="images/添加车辆/u1584.png"/>
+            <div id="u2720_text" class="text ">
+              <p><span>8</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2721" class="ax_default _需求字体">
+            <img id="u2721_img" class="img " src="images/首页v2_0/u2709.png"/>
+            <div id="u2721_text" class="text ">
+              <p><span>省心保养</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2722" class="ax_default _需求字体">
+            <img id="u2722_img" class="img " src="images/首页v2_0/u2710.png"/>
+            <div id="u2722_text" class="text ">
+              <p><span>1.点击“常规保养”跳转到保养页面；</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2723" class="ax_default table_cell">
+            <img id="u2723_img" class="img " src="images/添加车辆/u1587.png"/>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2724" class="ax_default _需求字体">
+            <img id="u2724_img" class="img " src="images/加油站/u1735.png"/>
+            <div id="u2724_text" class="text ">
+              <p><span>9</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2725" class="ax_default _需求字体">
+            <img id="u2725_img" class="img " src="images/首页v2_0/u2705.png"/>
+            <div id="u2725_text" class="text ">
+              <p><span>爱车估价</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2726" class="ax_default _需求字体">
+            <img id="u2726_img" class="img " src="images/首页v2_0/u2706.png"/>
+            <div id="u2726_text" class="text ">
+              <p><span>1.点击“爱车估价”未添加车辆时，点击跳转到添加车辆页面；已添加车辆时，点击跳转到车辆估价页面；</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2727" class="ax_default table_cell">
+            <img id="u2727_img" class="img " src="images/首页v2_0/u2707.png"/>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2728" class="ax_default _需求字体">
+            <img id="u2728_img" class="img " src="images/添加车辆/u1584.png"/>
+            <div id="u2728_text" class="text ">
+              <p><span>10</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2729" class="ax_default _需求字体">
+            <img id="u2729_img" class="img " src="images/首页v2_0/u2709.png"/>
+            <div id="u2729_text" class="text ">
+              <p><span>违章查询</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2730" class="ax_default _需求字体">
+            <img id="u2730_img" class="img " src="images/首页v2_0/u2710.png"/>
+            <div id="u2730_text" class="text ">
+              <p><span>1.点击“违章查询”跳转到违章查询页面；</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2731" class="ax_default table_cell">
+            <img id="u2731_img" class="img " src="images/添加车辆/u1587.png"/>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2732" class="ax_default _需求字体">
+            <img id="u2732_img" class="img " src="images/添加车辆/u1576.png"/>
+            <div id="u2732_text" class="text ">
+              <p><span>11</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2733" class="ax_default _需求字体">
+            <img id="u2733_img" class="img " src="images/首页v2_0/u2713.png"/>
+            <div id="u2733_text" class="text ">
+              <p><span>产品模块</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2734" class="ax_default _需求字体">
+            <img id="u2734_img" class="img " src="images/首页v2_0/u2714.png"/>
+            <div id="u2734_text" class="text ">
+              <p><span>1.平台的四大产品模块；</span></p><p><span>2.具体内容和图标后台配置显示；</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2735" class="ax_default table_cell">
+            <img id="u2735_img" class="img " src="images/我的爱车/u1538.png"/>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2736" class="ax_default _需求字体">
+            <img id="u2736_img" class="img " src="images/启动v2_0/u2519.png"/>
+            <div id="u2736_text" class="text ">
+              <p><span>12</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2737" class="ax_default _需求字体">
+            <img id="u2737_img" class="img " src="images/首页v2_0/u2737.png"/>
+            <div id="u2737_text" class="text ">
+              <p><span>车主贷款</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2738" class="ax_default _需求字体">
+            <img id="u2738_img" class="img " src="images/首页v2_0/u2738.png"/>
+            <div id="u2738_text" class="text ">
+              <p><span>1.点击“车主贷款”跳转到车主贷页面；</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2739" class="ax_default table_cell">
+            <img id="u2739_img" class="img " src="images/我的爱车/u1546.png"/>
+            <div id="u2739_text" class="text ">
+              <p><span>iOS 审核时要后台关闭</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2740" class="ax_default _需求字体">
+            <img id="u2740_img" class="img " src="images/添加车辆/u1584.png"/>
+            <div id="u2740_text" class="text ">
+              <p><span>13</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2741" class="ax_default _需求字体">
+            <img id="u2741_img" class="img " src="images/首页v2_0/u2709.png"/>
+            <div id="u2741_text" class="text ">
+              <p><span>爱车出租</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2742" class="ax_default _需求字体">
+            <img id="u2742_img" class="img " src="images/首页v2_0/u2710.png"/>
+            <div id="u2742_text" class="text ">
+              <p><span>1.点击“爱车出租”跳转到我要出租页面；</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2743" class="ax_default table_cell">
+            <img id="u2743_img" class="img " src="images/添加车辆/u1587.png"/>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2744" class="ax_default _需求字体">
+            <img id="u2744_img" class="img " src="images/添加车辆/u1584.png"/>
+            <div id="u2744_text" class="text ">
+              <p><span>14</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2745" class="ax_default _需求字体">
+            <img id="u2745_img" class="img " src="images/首页v2_0/u2709.png"/>
+            <div id="u2745_text" class="text ">
+              <p><span>车辆置换</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2746" class="ax_default _需求字体">
+            <img id="u2746_img" class="img " src="images/首页v2_0/u2710.png"/>
+            <div id="u2746_text" class="text ">
+              <p><span>1.点击“车辆置换”跳转到我要卖车页面；</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2747" class="ax_default table_cell">
+            <img id="u2747_img" class="img " src="images/添加车辆/u1587.png"/>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2748" class="ax_default _需求字体">
+            <img id="u2748_img" class="img " src="images/添加车辆/u1584.png"/>
+            <div id="u2748_text" class="text ">
+              <p><span>15</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2749" class="ax_default _需求字体">
+            <img id="u2749_img" class="img " src="images/首页v2_0/u2709.png"/>
+            <div id="u2749_text" class="text ">
+              <p><span>车险办理</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2750" class="ax_default _需求字体">
+            <img id="u2750_img" class="img " src="images/首页v2_0/u2710.png"/>
+            <div id="u2750_text" class="text ">
+              <p><span>1.点击“车险办理”跳转到车险页面；</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2751" class="ax_default table_cell">
+            <img id="u2751_img" class="img " src="images/添加车辆/u1587.png"/>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2752" class="ax_default _需求字体">
+            <img id="u2752_img" class="img " src="images/添加车辆/u1596.png"/>
+            <div id="u2752_text" class="text ">
+              <p><span>16</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2753" class="ax_default _需求字体">
+            <img id="u2753_img" class="img " src="images/首页v2_0/u2697.png"/>
+            <div id="u2753_text" class="text ">
+              <p><span>商品优选</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2754" class="ax_default _需求字体">
+            <img id="u2754_img" class="img " src="images/首页v2_0/u2698.png"/>
+            <div id="u2754_text" class="text ">
+              <p><span>1.后台操作优选3个商品到首页；</span></p><p><span>2.如果优选数不足，按销量最高优选3个；</span></p><p><span>3.没有数据时直接隐藏商品优选这个模块；</span></p><p><span>4.点击“更多”跳转到商城首页；</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2755" class="ax_default table_cell">
+            <img id="u2755_img" class="img " src="images/添加车辆/u1599.png"/>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2756" class="ax_default _需求字体">
+            <img id="u2756_img" class="img " src="images/首页v2_0/u2756.png"/>
+            <div id="u2756_text" class="text ">
+              <p><span>17</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2757" class="ax_default _需求字体">
+            <img id="u2757_img" class="img " src="images/首页v2_0/u2757.png"/>
+            <div id="u2757_text" class="text ">
+              <p><span>门店推荐</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2758" class="ax_default _需求字体">
+            <img id="u2758_img" class="img " src="images/首页v2_0/u2758.png"/>
+            <div id="u2758_text" class="text ">
+              <p><span>1.后台操作推荐2个门店到首页；</span></p><p><span>2.若推荐数不足，按用户定位推荐附近最近的两个门店，如果用户拒绝定位，推荐深圳预约服务销量最高的2个门店；</span></p><p><span>3.用户变更定位信息时实时获取定位，否则2两小时一次获取定位信息；</span></p><p><span>4.点击门店弹框提示“打电话”或“到这里”；</span></p><p><span>5.没有数据时直接隐藏门店推荐这个模块；</span></p><p><span>6.点击“更多”跳转到洗车列表；</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2759" class="ax_default table_cell">
+            <img id="u2759_img" class="img " src="images/首页v2_0/u2759.png"/>
+            <div id="u2759_text" class="text ">
+              <p><span>按距离推荐的V2.0暂不考虑，等广告按地区投放再做</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2760" class="ax_default _需求字体">
+            <img id="u2760_img" class="img " src="images/违章查询/u2394.png"/>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2761" class="ax_default _需求字体">
+            <img id="u2761_img" class="img " src="images/首页v2_0/u2761.png"/>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2762" class="ax_default _需求字体">
+            <img id="u2762_img" class="img " src="images/首页v2_0/u2762.png"/>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2763" class="ax_default table_cell">
+            <img id="u2763_img" class="img " src="images/车辆估价/u1977.png"/>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2764" class="ax_default _需求字体">
+            <img id="u2764_img" class="img " src="images/首页v2_0/u2764.png"/>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2765" class="ax_default _需求字体">
+            <img id="u2765_img" class="img " src="images/首页v2_0/u2765.png"/>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2766" class="ax_default _需求字体">
+            <img id="u2766_img" class="img " src="images/首页v2_0/u2766.png"/>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u2767" class="ax_default table_cell">
+            <img id="u2767_img" class="img " src="images/首页v2_0/u2767.png"/>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接线) -->
+      <div id="u2768" class="ax_default connector">
+        <img id="u2768_seg0" class="img " src="images/首页v2_0/u2768_seg0.png" alt="u2768_seg0"/>
+        <img id="u2768_seg1" class="img " src="images/首页v2_0/u2768_seg1.png" alt="u2768_seg1"/>
+        <img id="u2768_seg2" class="img " src="images/首页v2_0/u2768_seg2.png" alt="u2768_seg2"/>
+        <img id="u2768_seg3" class="img " src="images/首页v2_0/u2768_seg3.png" alt="u2768_seg3"/>
+        <img id="u2768_seg4" class="img " src="images/首页v2_0/u2768_seg4.png" alt="u2768_seg4"/>
+        <img id="u2768_seg5" class="img " src="images/首页v2_0/u2768_seg5.png" alt="u2768_seg5"/>
+        <div id="u2768_text" class="text " style="display:none; visibility: hidden">
+          <p></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接线) -->
+      <div id="u2769" class="ax_default connector">
+        <img id="u2769_seg0" class="img " src="images/首页v2_0/u2769_seg0.png" alt="u2769_seg0"/>
+        <img id="u2769_seg1" class="img " src="images/违章查询/u2481_seg3.png" alt="u2769_seg1"/>
+        <img id="u2769_seg2" class="img " src="images/首页v2_0/u2768_seg5.png" alt="u2769_seg2"/>
+        <div id="u2769_text" class="text " style="display:none; visibility: hidden">
+          <p></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接线) -->
+      <div id="u2770" class="ax_default connector">
+        <img id="u2770_seg0" class="img " src="images/首页v2_0/u2770_seg0.png" alt="u2770_seg0"/>
+        <img id="u2770_seg1" class="img " src="images/违章查询/u2481_seg3.png" alt="u2770_seg1"/>
+        <img id="u2770_seg2" class="img " src="images/首页v2_0/u2768_seg5.png" alt="u2770_seg2"/>
+        <div id="u2770_text" class="text " style="display:none; visibility: hidden">
+          <p></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2771" class="ax_default _三级标题">
+        <div id="u2771_div" class=""></div>
+        <div id="u2771_text" class="text ">
+          <p><span>产品模块排版规则</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2772" class="ax_default label">
+        <div id="u2772_div" class=""></div>
+        <div id="u2772_text" class="text ">
+          <p><span>定义四个div，先判断后台传的产品数量有几个，再显示到对应的div里面</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u2773" class="ax_default image">
+        <img id="u2773_img" class="img " src="images/首页v2_0/u2773.png"/>
+      </div>
+    </div>
+  </body>
+</html>

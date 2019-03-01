@@ -1,0 +1,598 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>预约明细-已完成V1.1</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/预约明细-已完成v1_1/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/prototypePre.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/prototypePost.js"></script>
+    <script src="files/预约明细-已完成v1_1/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (H5子模板) -->
+
+      <!-- Unnamed (矩形) -->
+      <div id="u9040" class="ax_default box_1">
+        <div id="u9040_div" class=""></div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u9041" class="ax_default box_1">
+        <div id="u9041_div" class=""></div>
+        <div id="u9041_text" class="text ">
+          <p><span>预约明细</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u9042" class="ax_default label">
+        <div id="u9042_div" class=""></div>
+        <div id="u9042_text" class="text ">
+          <p><span>&lt;</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u9043" class="ax_default box_1">
+        <div id="u9043_div" class=""></div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u9044" class="ax_default box_1">
+        <div id="u9044_div" class=""></div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u9045" class="ax_default image">
+        <img id="u9045_img" class="img " src="images/预约明细-预约中v1_1/u8639.png"/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u9046" class="ax_default label">
+        <div id="u9046_div" class=""></div>
+        <div id="u9046_text" class="text ">
+          <p><span>已完成</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u9047" class="ax_default image">
+        <img id="u9047_img" class="img " src="images/预约明细-预约中v1_1/u8645.png"/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u9048" class="ax_default label">
+        <div id="u9048_div" class=""></div>
+        <div id="u9048_text" class="text ">
+          <p><span>一点车养护中心（福田上梅林店）</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u9049" class="ax_default image">
+        <img id="u9049_img" class="img " src="images/预约明细-预约中v1_1/u8648.png"/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u9050" class="ax_default label">
+        <div id="u9050_div" class=""></div>
+        <div id="u9050_text" class="text ">
+          <p><span>优惠劵二维码</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u9051" class="ax_default label">
+        <div id="u9051_div" class=""></div>
+        <div id="u9051_text" class="text ">
+          <p><span>服务完成后，请让门店扫码确认</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u9052" class="ax_default label">
+        <div id="u9052_div" class=""></div>
+        <div id="u9052_text" class="text ">
+          <p><span>已服务</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (组 合) -->
+      <div id="u9053" class="ax_default" data-left="0" data-top="208" data-width="375" data-height="138">
+
+        <!-- Unnamed (矩形) -->
+        <div id="u9054" class="ax_default box_1">
+          <div id="u9054_div" class=""></div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u9055" class="ax_default label">
+          <div id="u9055_div" class=""></div>
+          <div id="u9055_text" class="text ">
+            <p><span>预约明细</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (水平线) -->
+        <div id="u9056" class="ax_default line">
+          <img id="u9056_img" class="img " src="images/特惠洗车v1_1_1/u5683.png"/>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u9057" class="ax_default label">
+          <div id="u9057_div" class=""></div>
+          <div id="u9057_text" class="text ">
+            <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;">常规保养:</span><span style="font-family:'Arial Normal', 'Arial';font-weight:400;"> 保养服务明细具体待定，直接读取优惠劵的服务内容</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u9058" class="ax_default label">
+          <div id="u9058_div" class=""></div>
+          <div id="u9058_text" class="text ">
+            <p><span>￥800.00</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u9059" class="ax_default label">
+          <div id="u9059_div" class=""></div>
+          <div id="u9059_text" class="text ">
+            <p><span>￥30.00</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u9060" class="ax_default label">
+          <div id="u9060_div" class=""></div>
+          <div id="u9060_text" class="text ">
+            <p><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;">标准洗车:</span><span style="font-family:'Arial Normal', 'Arial';font-weight:400;">洗车服务明细具体待定，直接读取优惠劵的服务内容</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u9061" class="ax_default label">
+        <div id="u9061_div" class=""></div>
+        <div id="u9061_text" class="text ">
+          <p><span>福田区颂德国际大厦1001F</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u9062" class="ax_default image">
+        <img id="u9062_img" class="img " src="images/保养门店v1_1/u7598.png"/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u9063" class="ax_default label">
+        <div id="u9063_div" class=""></div>
+        <div id="u9063_text" class="text ">
+          <p><span>9:00~18:00</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u9064" class="ax_default image">
+        <img id="u9064_img" class="img " src="images/保养门店v1_1/u7597.png"/>
+      </div>
+
+      <!-- Unnamed (组 合) -->
+      <div id="u9065" class="ax_default" data-left="0" data-top="345" data-width="375" data-height="124">
+
+        <!-- Unnamed (组 合) -->
+        <div id="u9066" class="ax_default" data-left="0" data-top="345" data-width="375" data-height="124">
+
+          <!-- Unnamed (矩形) -->
+          <div id="u9067" class="ax_default box_1">
+            <div id="u9067_div" class=""></div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u9068" class="ax_default label">
+            <div id="u9068_div" class=""></div>
+            <div id="u9068_text" class="text ">
+              <p><span>红包优惠</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u9069" class="ax_default label">
+            <div id="u9069_div" class=""></div>
+            <div id="u9069_text" class="text ">
+              <p><span>￥830.00</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u9070" class="ax_default label">
+            <div id="u9070_div" class=""></div>
+            <div id="u9070_text" class="text ">
+              <p><span>预约总价</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u9071" class="ax_default label">
+            <div id="u9071_div" class=""></div>
+            <div id="u9071_text" class="text ">
+              <p><span>￥830.00</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u9072" class="ax_default label">
+            <div id="u9072_div" class=""></div>
+            <div id="u9072_text" class="text ">
+              <p><span>预约时间</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u9073" class="ax_default label">
+            <div id="u9073_div" class=""></div>
+            <div id="u9073_text" class="text ">
+              <p><span>2018-10-18 12:00</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u9074" class="ax_default label">
+            <div id="u9074_div" class=""></div>
+            <div id="u9074_text" class="text ">
+              <p style="font-size:14px;"><span>实际付款：</span><span style="font-size:16px;color:#000000;">￥0.00</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (水平线) -->
+          <div id="u9075" class="ax_default line">
+            <img id="u9075_img" class="img " src="images/省心保养v1_1_1/u5832.png"/>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u9076" class="ax_default label">
+            <div id="u9076_div" class=""></div>
+            <div id="u9076_text" class="text ">
+              <p><span>订单编号</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u9077" class="ax_default label">
+            <div id="u9077_div" class=""></div>
+            <div id="u9077_text" class="text ">
+              <p><span>2018101812000801YDC</span></p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u9078" class="ax_default image">
+        <img id="u9078_img" class="img " src="images/预约明细-预约中v1_1/u8648.png"/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u9079" class="ax_default label">
+        <div id="u9079_div" class=""></div>
+        <div id="u9079_text" class="text ">
+          <p><span>已退回</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (组 合) -->
+      <div id="u9080" class="ax_default" data-left="550" data-top="0" data-width="679" data-height="510">
+
+        <!-- Unnamed (表格) -->
+        <div id="u9081" class="ax_default">
+
+          <!-- Unnamed (单元格) -->
+          <div id="u9082" class="ax_default table_cell">
+            <img id="u9082_img" class="img " src="images/启动v2_0/u1304.png"/>
+            <div id="u9082_text" class="text ">
+              <p><span style="color:#515151;">用例名称</span><span style="color:#FF0000;">*</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u9083" class="ax_default table_cell">
+            <img id="u9083_img" class="img " src="images/启动v2_0/u1305.png"/>
+            <div id="u9083_text" class="text ">
+              <p><span>我的-预约单</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u9084" class="ax_default table_cell">
+            <img id="u9084_img" class="img " src="images/启动v2_0/u1306.png"/>
+            <div id="u9084_text" class="text ">
+              <p><span style="color:#515151;">用例编号</span><span style="color:#FF0000;">*</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u9085" class="ax_default table_cell">
+            <img id="u9085_img" class="img " src="images/启动v2_0/u1307.png"/>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u9086" class="ax_default table_cell">
+            <img id="u9086_img" class="img " src="images/启动v2_0/u1306.png"/>
+            <div id="u9086_text" class="text ">
+              <p><span style="color:#515151;">操作角色</span><span style="color:#FF0000;">*</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u9087" class="ax_default table_cell">
+            <img id="u9087_img" class="img " src="images/启动v2_0/u1307.png"/>
+            <div id="u9087_text" class="text ">
+              <p><span>车主</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u9088" class="ax_default table_cell">
+            <img id="u9088_img" class="img " src="images/启动v2_0/u1306.png"/>
+            <div id="u9088_text" class="text ">
+              <p><span style="color:#515151;">优先级</span><span style="color:#FF0000;">*</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u9089" class="ax_default table_cell">
+            <img id="u9089_img" class="img " src="images/启动v2_0/u1307.png"/>
+            <div id="u9089_text" class="text ">
+              <p><span>高</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u9090" class="ax_default table_cell">
+            <img id="u9090_img" class="img " src="images/启动v2_0/u1306.png"/>
+            <div id="u9090_text" class="text ">
+              <p><span style="color:#515151;">功能目标</span><span style="color:#FF0000;">*</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u9091" class="ax_default table_cell">
+            <img id="u9091_img" class="img " src="images/启动v2_0/u1307.png"/>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u9092" class="ax_default table_cell">
+            <img id="u9092_img" class="img " src="images/启动v2_0/u1314.png"/>
+            <div id="u9092_text" class="text ">
+              <p><span>前置条件</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u9093" class="ax_default table_cell">
+            <img id="u9093_img" class="img " src="images/启动v2_0/u1315.png"/>
+          </div>
+        </div>
+
+        <!-- Unnamed (组 合) -->
+        <div id="u9094" class="ax_default" data-left="550" data-top="185" data-width="679" data-height="325">
+
+          <!-- Unnamed (表格) -->
+          <div id="u9095" class="ax_default">
+
+            <!-- Unnamed (单元格) -->
+            <div id="u9096" class="ax_default _需求字体">
+              <img id="u9096_img" class="img " src="images/我的v2_0/u2138.png"/>
+              <div id="u9096_text" class="text ">
+                <p><span>编号</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u9097" class="ax_default _需求字体">
+              <img id="u9097_img" class="img " src="images/首页v1_1/u6552.png"/>
+              <div id="u9097_text" class="text ">
+                <p><span>名称</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u9098" class="ax_default _需求字体">
+              <img id="u9098_img" class="img " src="images/车辆估价v1_2/u4363.png"/>
+              <div id="u9098_text" class="text ">
+                <p><span>需求描述</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u9099" class="ax_default _需求字体">
+              <img id="u9099_img" class="img " src="images/启动v2_0/u1321.png"/>
+              <div id="u9099_text" class="text ">
+                <p><span>备注</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u9100" class="ax_default _需求字体">
+              <img id="u9100_img" class="img " src="images/首页v1_1/u6595.png"/>
+              <div id="u9100_text" class="text ">
+                <p><span>1</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u9101" class="ax_default _需求字体">
+              <img id="u9101_img" class="img " src="images/首页v1_1/u6596.png"/>
+              <div id="u9101_text" class="text ">
+                <p><span>二维码</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u9102" class="ax_default _需求字体">
+              <img id="u9102_img" class="img " src="images/首页v1_1/u6597.png"/>
+              <div id="u9102_text" class="text ">
+                <p><span>1.服务完成后的二维码打码，劵码加星号；</span></p><p><span>2.受手机屏幕影响，可以竖着排列二维码展示多个，或者做横排页签切换；</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u9103" class="ax_default table_cell">
+              <img id="u9103_img" class="img " src="images/首页v2_0/u1514.png"/>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u9104" class="ax_default _需求字体">
+              <img id="u9104_img" class="img " src="images/我的v2_0/u2154.png"/>
+              <div id="u9104_text" class="text ">
+                <p><span>2</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u9105" class="ax_default _需求字体">
+              <img id="u9105_img" class="img " src="images/首页v1_1/u6568.png"/>
+              <div id="u9105_text" class="text ">
+                <p><span>打码规则</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u9106" class="ax_default _需求字体">
+              <img id="u9106_img" class="img " src="images/车辆估价v1_2/u4371.png"/>
+              <div id="u9106_text" class="text ">
+                <p><span>1.预约中和已服务的劵都打码，保留前三后四中间加*</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u9107" class="ax_default table_cell">
+              <img id="u9107_img" class="img " src="images/启动v2_0/u1325.png"/>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u9108" class="ax_default _需求字体">
+              <img id="u9108_img" class="img " src="images/我的v2_0/u2178.png"/>
+              <div id="u9108_text" class="text ">
+                <p><span>3</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u9109" class="ax_default _需求字体">
+              <img id="u9109_img" class="img " src="images/首页v1_1/u6616.png"/>
+              <div id="u9109_text" class="text ">
+                <p><span>导航门店</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u9110" class="ax_default _需求字体">
+              <img id="u9110_img" class="img " src="images/首页v1_1/u6617.png"/>
+              <div id="u9110_text" class="text ">
+                <p><span>1.点击门店或者定位直接调地图导航</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u9111" class="ax_default table_cell">
+              <img id="u9111_img" class="img " src="images/首页v2_0/u1522.png"/>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u9112" class="ax_default _需求字体">
+              <img id="u9112_img" class="img " src="images/我的v2_0/u2154.png"/>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u9113" class="ax_default _需求字体">
+              <img id="u9113_img" class="img " src="images/首页v1_1/u6568.png"/>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u9114" class="ax_default _需求字体">
+              <img id="u9114_img" class="img " src="images/车辆估价v1_2/u4371.png"/>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u9115" class="ax_default table_cell">
+              <img id="u9115_img" class="img " src="images/启动v2_0/u1325.png"/>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u9116" class="ax_default _需求字体">
+              <img id="u9116_img" class="img " src="images/预约明细-预约中v1_1/u8717.png"/>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u9117" class="ax_default _需求字体">
+              <img id="u9117_img" class="img " src="images/预约明细-预约中v1_1/u8718.png"/>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u9118" class="ax_default _需求字体">
+              <img id="u9118_img" class="img " src="images/预约明细-预约中v1_1/u8719.png"/>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u9119" class="ax_default table_cell">
+              <img id="u9119_img" class="img " src="images/预约明细-预约中v1_1/u8720.png"/>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u9120" class="ax_default _文本段落">
+        <div id="u9120_div" class=""></div>
+        <div id="u9120_text" class="text ">
+          <p><span>美孚金装小保养劵</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u9121" class="ax_default _文本段落">
+        <div id="u9121_div" class=""></div>
+        <div id="u9121_text" class="text ">
+          <p><span>标准洗车劵</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u9122" class="ax_default _文本段落">
+        <div id="u9122_div" class=""></div>
+        <div id="u9122_text" class="text ">
+          <p><span>劵码：</span><span style="color:#FF0000;">No.2018 **** 0601</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u9123" class="ax_default _文本段落">
+        <div id="u9123_div" class=""></div>
+        <div id="u9123_text" class="text ">
+          <p><span>劵码：</span><span style="color:#FF0000;">No.2018 **** 0601</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u9124" class="ax_default image">
+        <img id="u9124_img" class="img " src="images/首页v2_0/u1466.png"/>
+      </div>
+    </div>
+  </body>
+</html>

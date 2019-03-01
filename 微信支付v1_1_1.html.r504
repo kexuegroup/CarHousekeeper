@@ -1,0 +1,418 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>微信支付V1.1.1</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/微信支付v1_1_1/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/prototypePre.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/prototypePost.js"></script>
+    <script src="files/微信支付v1_1_1/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (组 合) -->
+      <div id="u6158" class="ax_default" data-left="0" data-top="0" data-width="0" data-height="0">
+      </div>
+
+      <!-- Unnamed (组 合) -->
+      <div id="u6159" class="ax_default" data-left="20" data-top="20" data-width="430" data-height="866">
+
+        <!-- Unnamed (组 合) -->
+        <div id="u6160" class="ax_default" data-left="20" data-top="20" data-width="430" data-height="866">
+
+          <!-- Unnamed (组 合) -->
+          <div id="u6161" class="ax_default" data-left="20" data-top="20" data-width="430" data-height="866">
+
+            <!-- Unnamed (图片) -->
+            <div id="u6162" class="ax_default image">
+              <img id="u6162_img" class="img " src="images/启动v2_0/u1355.png"/>
+            </div>
+
+            <!-- Unnamed (组 合) -->
+            <div id="u6163" class="ax_default" data-left="50" data-top="120" data-width="375" data-height="20">
+
+              <!-- Unnamed (组 合) -->
+              <div id="u6164" class="ax_default" data-left="50" data-top="120" data-width="375" data-height="20">
+
+                <!-- Unnamed (矩形) -->
+                <div id="u6165" class="ax_default shape2">
+                  <div id="u6165_div" class=""></div>
+                </div>
+
+                <!-- Unnamed (图片) -->
+                <div id="u6166" class="ax_default image2">
+                  <img id="u6166_img" class="img " src="images/首页v2_0/u1390.png"/>
+                </div>
+
+                <!-- Unnamed (图片) -->
+                <div id="u6167" class="ax_default image">
+                  <img id="u6167_img" class="img " src="images/微信支付v1_1_1/u6167.png"/>
+                </div>
+
+                <!-- Unnamed (矩形) -->
+                <div id="u6168" class="ax_default label">
+                  <div id="u6168_div" class=""></div>
+                  <div id="u6168_text" class="text ">
+                    <p><span>一点车</span></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Unnamed (组 合) -->
+        <div id="u6169" class="ax_default" data-left="50" data-top="140" data-width="375" data-height="40">
+
+          <!-- Unnamed (组 合) -->
+          <div id="u6170" class="ax_default" data-left="50" data-top="140" data-width="375" data-height="40">
+
+            <!-- Unnamed (矩形) -->
+            <div id="u6171" class="ax_default box_1">
+              <div id="u6171_div" class=""></div>
+              <div id="u6171_text" class="text ">
+                <p><span>微信支付</span></p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u6172" class="ax_default box_1">
+            <div id="u6172_div" class=""></div>
+            <div id="u6172_text" class="text ">
+              <p><span>取消</span></p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u6173" class="ax_default label">
+        <div id="u6173_div" class=""></div>
+        <div id="u6173_text" class="text ">
+          <p><span>标准洗车1次</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u6174" class="ax_default label">
+        <div id="u6174_div" class=""></div>
+        <div id="u6174_text" class="text ">
+          <p><span style="font-family:'微软雅黑';font-weight:400;">￥</span><span style="font-family:'微软雅黑';font-weight:400;">30.00</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (组 合) -->
+      <div id="u6175" class="ax_default" data-left="50" data-top="291" data-width="375" data-height="50">
+
+        <!-- Unnamed (矩形) -->
+        <div id="u6176" class="ax_default box_11">
+          <div id="u6176_div" class=""></div>
+          <div id="u6176_text" class="text ">
+            <p><span>一点科技</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u6177" class="ax_default box_11">
+          <div id="u6177_div" class=""></div>
+          <div id="u6177_text" class="text ">
+            <p><span>收款方</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u6178" class="ax_default box_13">
+        <div id="u6178_div" class=""></div>
+        <div id="u6178_text" class="text ">
+          <p><span>立即支付</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u6179" class="ax_default image">
+        <img id="u6179_img" class="img " src="images/微信支付v1_1_1/u6179.png"/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u6180" class="ax_default image">
+        <img id="u6180_img" class="img " src="images/微信支付v1_1_1/u6180.png"/>
+      </div>
+
+      <!-- Unnamed (组 合) -->
+      <div id="u6181" class="ax_default" data-left="484" data-top="1952" data-width="917" data-height="1350">
+
+        <!-- Unnamed (组 合) -->
+        <div id="u6182" class="ax_default" data-left="496" data-top="1966" data-width="868" data-height="357">
+
+          <!-- Unnamed (矩形) -->
+          <div id="u6183" class="ax_default _文本段落">
+            <div id="u6183_div" class=""></div>
+            <div id="u6183_text" class="text ">
+              <p><span>公众号接入支付</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (图片) -->
+          <div id="u6184" class="ax_default image">
+            <img id="u6184_img" class="img " src="images/微信支付v1_1_1/u6184.png"/>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u6185" class="ax_default _文本段落">
+            <div id="u6185_div" class=""></div>
+            <div id="u6185_text" class="text ">
+              <p><span>用户在商户页面下单</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (图片) -->
+          <div id="u6186" class="ax_default image">
+            <img id="u6186_img" class="img " src="images/微信支付v1_1_1/u6186.png"/>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u6187" class="ax_default _文本段落">
+            <div id="u6187_div" class=""></div>
+            <div id="u6187_text" class="text ">
+              <p><span>用户输入密码</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (图片) -->
+          <div id="u6188" class="ax_default image">
+            <img id="u6188_img" class="img " src="images/微信支付v1_1_1/u6188.png"/>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u6189" class="ax_default _文本段落">
+            <div id="u6189_div" class=""></div>
+            <div id="u6189_text" class="text ">
+              <p><span>支付成功</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (图片) -->
+          <div id="u6190" class="ax_default image">
+            <img id="u6190_img" class="img " src="images/微信支付v1_1_1/u6190.png"/>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u6191" class="ax_default _文本段落">
+            <div id="u6191_div" class=""></div>
+            <div id="u6191_text" class="text ">
+              <p><span>用户收到账单消息</span></p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Unnamed (组 合) -->
+        <div id="u6192" class="ax_default" data-left="496" data-top="2391" data-width="869" data-height="411">
+
+          <!-- Unnamed (矩形) -->
+          <div id="u6193" class="ax_default _文本段落">
+            <div id="u6193_div" class=""></div>
+            <div id="u6193_text" class="text ">
+              <p><span>PC网站接入支付</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (图片) -->
+          <div id="u6194" class="ax_default image">
+            <img id="u6194_img" class="img " src="images/微信支付v1_1_1/u6194.png"/>
+          </div>
+
+          <!-- Unnamed (图片) -->
+          <div id="u6195" class="ax_default image">
+            <img id="u6195_img" class="img " src="images/微信支付v1_1_1/u6195.png"/>
+          </div>
+
+          <!-- Unnamed (图片) -->
+          <div id="u6196" class="ax_default image">
+            <img id="u6196_img" class="img " src="images/微信支付v1_1_1/u6196.png"/>
+          </div>
+
+          <!-- Unnamed (图片) -->
+          <div id="u6197" class="ax_default image">
+            <img id="u6197_img" class="img " src="images/微信支付v1_1_1/u6197.png"/>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u6198" class="ax_default _文本段落">
+            <div id="u6198_div" class=""></div>
+            <div id="u6198_text" class="text ">
+              <p><span>用户扫描二维码</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u6199" class="ax_default _文本段落">
+            <div id="u6199_div" class=""></div>
+            <div id="u6199_text" class="text ">
+              <p><span>输入待付款金额</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u6200" class="ax_default _文本段落">
+            <div id="u6200_div" class=""></div>
+            <div id="u6200_text" class="text ">
+              <p><span>确认支付</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u6201" class="ax_default _文本段落">
+            <div id="u6201_div" class=""></div>
+            <div id="u6201_text" class="text ">
+              <p><span>支付成功</span></p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Unnamed (组 合) -->
+        <div id="u6202" class="ax_default" data-left="496" data-top="2869" data-width="868" data-height="399">
+
+          <!-- Unnamed (矩形) -->
+          <div id="u6203" class="ax_default _文本段落">
+            <div id="u6203_div" class=""></div>
+            <div id="u6203_text" class="text ">
+              <p><span>APP接入支付</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (图片) -->
+          <div id="u6204" class="ax_default image">
+            <img id="u6204_img" class="img " src="images/微信支付v1_1_1/u6204.png"/>
+          </div>
+
+          <!-- Unnamed (图片) -->
+          <div id="u6205" class="ax_default image">
+            <img id="u6205_img" class="img " src="images/微信支付v1_1_1/u6205.png"/>
+          </div>
+
+          <!-- Unnamed (图片) -->
+          <div id="u6206" class="ax_default image">
+            <img id="u6206_img" class="img " src="images/微信支付v1_1_1/u6206.png"/>
+          </div>
+
+          <!-- Unnamed (图片) -->
+          <div id="u6207" class="ax_default image">
+            <img id="u6207_img" class="img " src="images/微信支付v1_1_1/u6207.png"/>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u6208" class="ax_default _文本段落">
+            <div id="u6208_div" class=""></div>
+            <div id="u6208_text" class="text ">
+              <p><span>用户在商户小程序下单</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u6209" class="ax_default _文本段落">
+            <div id="u6209_div" class=""></div>
+            <div id="u6209_text" class="text ">
+              <p><span>确认支付</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u6210" class="ax_default _文本段落">
+            <div id="u6210_div" class=""></div>
+            <div id="u6210_text" class="text ">
+              <p><span>支付成功</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u6211" class="ax_default _文本段落">
+            <div id="u6211_div" class=""></div>
+            <div id="u6211_text" class="text ">
+              <p><span>用户收到账单消息</span></p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Unnamed (表格) -->
+        <div id="u6212" class="ax_default">
+
+          <!-- Unnamed (单元格) -->
+          <div id="u6213" class="ax_default table_cell">
+            <img id="u6213_img" class="img " src="images/微信支付v1_1_1/u6213.png"/>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u6214" class="ax_default table_cell">
+            <img id="u6214_img" class="img " src="images/微信支付v1_1_1/u6214.png"/>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u6215" class="ax_default table_cell">
+            <img id="u6215_img" class="img " src="images/微信支付v1_1_1/u6215.png"/>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u6216" class="ax_default table_cell">
+            <img id="u6216_img" class="img " src="images/微信支付v1_1_1/u6216.png"/>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u6217" class="ax_default table_cell">
+            <img id="u6217_img" class="img " src="images/微信支付v1_1_1/u6217.png"/>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u6218" class="ax_default table_cell">
+            <img id="u6218_img" class="img " src="images/微信支付v1_1_1/u6218.png"/>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u6219" class="ax_default table_cell">
+            <img id="u6219_img" class="img " src="images/微信支付v1_1_1/u6219.png"/>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u6220" class="ax_default table_cell">
+            <img id="u6220_img" class="img " src="images/微信支付v1_1_1/u6220.png"/>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u6221" class="ax_default table_cell">
+            <img id="u6221_img" class="img " src="images/微信支付v1_1_1/u6221.png"/>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u6222" class="ax_default table_cell">
+            <img id="u6222_img" class="img " src="images/微信支付v1_1_1/u6222.png"/>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u6223" class="ax_default table_cell">
+            <img id="u6223_img" class="img " src="images/微信支付v1_1_1/u6223.png"/>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u6224" class="ax_default table_cell">
+            <img id="u6224_img" class="img " src="images/微信支付v1_1_1/u6224.png"/>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

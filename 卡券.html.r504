@@ -1,0 +1,477 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>卡券</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/卡券/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/prototypePre.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/prototypePost.js"></script>
+    <script src="files/卡券/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (矩形) -->
+      <div id="u16743" class="ax_default box_17">
+        <div id="u16743_div" class=""></div>
+      </div>
+
+      <!-- Unnamed (组 合) -->
+      <div id="u16744" class="ax_default" data-left="111" data-top="214" data-width="375" data-height="44">
+
+        <!-- Unnamed (矩形) -->
+        <div id="u16745" class="ax_default box_17">
+          <div id="u16745_div" class=""></div>
+          <div id="u16745_text" class="text ">
+            <p><span>优惠卡券</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (水平线) -->
+        <div id="u16746" class="ax_default line">
+          <img id="u16746_img" class="img " src="images/全部评价/u16474.png"/>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u16747" class="ax_default box_17">
+        <div id="u16747_div" class=""></div>
+      </div>
+
+      <!-- stationBar-black (图片) -->
+      <div id="u16748" class="ax_default image" data-label="stationBar-black">
+        <img id="u16748_img" class="img " src="images/首页/stationbar-black_u15843.png"/>
+      </div>
+
+      <!-- Unnamed (组 合) -->
+      <div id="u16749" class="ax_default" data-left="80" data-top="80" data-width="436" data-height="889">
+
+        <!-- Unnamed (图片) -->
+        <div id="u16750" class="ax_default image">
+          <img id="u16750_img" class="img " src="images/登录_注册/u150.png"/>
+        </div>
+
+        <!-- Unnamed (图片) -->
+        <div id="u16751" class="ax_default image">
+          <img id="u16751_img" class="img " src="images/登录_注册/u151.png"/>
+        </div>
+
+        <!-- Unnamed (图片) -->
+        <div id="u16752" class="ax_default image">
+          <img id="u16752_img" class="img " src="images/登录_注册/u152.png"/>
+        </div>
+
+        <!-- Unnamed (图片) -->
+        <div id="u16753" class="ax_default image">
+          <img id="u16753_img" class="img " src="images/登录_注册/u153.png"/>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u16754" class="ax_default _图片">
+        <img id="u16754_img" class="img " src="images/服务列表/u16022.png"/>
+      </div>
+
+      <!-- top (动态面板) -->
+      <div id="u16755" class="ax_default" data-label="top">
+        <div id="u16755_state0" class="panel_state" data-label="State1" style="">
+          <div id="u16755_state0_content" class="panel_state_content">
+
+            <!-- Unnamed (矩形) -->
+            <div id="u16756" class="ax_default box_1">
+              <div id="u16756_div" class=""></div>
+            </div>
+
+            <!-- xuanxiangLeft (矩形) -->
+            <div id="u16757" class="ax_default box_17 selected" data-label="xuanxiangLeft" selectiongroup="zhuyeneirong">
+              <div id="u16757_div" class="selected"></div>
+              <div id="u16757_text" class="text ">
+                <p><span>待使用</span></p>
+              </div>
+            </div>
+
+            <!-- xuanxiangRight (矩形) -->
+            <div id="u16758" class="ax_default box_17" data-label="xuanxiangRight" selectiongroup="zhuyeneirong">
+              <div id="u16758_div" class=""></div>
+              <div id="u16758_text" class="text ">
+                <p><span>其他</span></p>
+              </div>
+            </div>
+
+            <!-- bottomLine (矩形) -->
+            <div id="u16759" class="ax_default box_1" data-label="bottomLine">
+              <img id="u16759_img" class="img " src="images/店铺详情/bottomline_u16550.png"/>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- cheyuan (动态面板) -->
+      <div id="u16760" class="ax_default" data-label="cheyuan">
+        <div id="u16760_state0" class="panel_state" data-label="服务" style="">
+          <div id="u16760_state0_content" class="panel_state_content">
+
+            <!-- Unnamed (矩形) -->
+            <div id="u16761" class="ax_default box_17">
+              <div id="u16761_div" class=""></div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u16762" class="ax_default box_17">
+              <div id="u16762_div" class=""></div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u16763" class="ax_default box_17">
+              <div id="u16763_div" class=""></div>
+              <div id="u16763_text" class="text ">
+                <p><span>¥99</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u16764" class="ax_default label">
+              <div id="u16764_div" class=""></div>
+              <div id="u16764_text" class="text ">
+                <p><span>爱尚汽车生活体验中心</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u16765" class="ax_default label">
+              <div id="u16765_div" class=""></div>
+              <div id="u16765_text" class="text ">
+                <p><span>精致洗车</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u16766" class="ax_default label">
+              <div id="u16766_div" class=""></div>
+              <div id="u16766_text" class="text ">
+                <p><span>有效期至:2019-03-31</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (垂直线) -->
+            <div id="u16767" class="ax_default line">
+              <img id="u16767_img" class="img " src="images/卡券/u16767.png"/>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u16768" class="ax_default label">
+              <div id="u16768_div" class=""></div>
+              <div id="u16768_text" class="text ">
+                <p><span>立</span></p><p><span>即</span></p><p><span>使</span></p><p><span>用</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u16769" class="ax_default box_17">
+              <div id="u16769_div" class=""></div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u16770" class="ax_default box_17">
+              <div id="u16770_div" class=""></div>
+              <div id="u16770_text" class="text ">
+                <p><span>¥99</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u16771" class="ax_default label">
+              <div id="u16771_div" class=""></div>
+              <div id="u16771_text" class="text ">
+                <p><span>爱尚汽车生活体验中心</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u16772" class="ax_default label">
+              <div id="u16772_div" class=""></div>
+              <div id="u16772_text" class="text ">
+                <p><span>嘉实多机油保养套餐</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u16773" class="ax_default label">
+              <div id="u16773_div" class=""></div>
+              <div id="u16773_text" class="text ">
+                <p><span>有效期至:2019-03-31</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (垂直线) -->
+            <div id="u16774" class="ax_default line">
+              <img id="u16774_img" class="img " src="images/卡券/u16767.png"/>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u16775" class="ax_default label">
+              <div id="u16775_div" class=""></div>
+              <div id="u16775_text" class="text ">
+                <p><span>立</span></p><p><span>即</span></p><p><span>使</span></p><p><span>用</span></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="u16760_state1" class="panel_state" data-label="评价" style="visibility: hidden;">
+          <div id="u16760_state1_content" class="panel_state_content">
+
+            <!-- Unnamed (矩形) -->
+            <div id="u16776" class="ax_default box_17">
+              <div id="u16776_div" class=""></div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u16777" class="ax_default box_17">
+              <div id="u16777_div" class=""></div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u16778" class="ax_default box_17">
+              <div id="u16778_div" class=""></div>
+              <div id="u16778_text" class="text ">
+                <p><span>¥99</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u16779" class="ax_default label">
+              <div id="u16779_div" class=""></div>
+              <div id="u16779_text" class="text ">
+                <p><span>爱尚汽车生活体验中心</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u16780" class="ax_default label">
+              <div id="u16780_div" class=""></div>
+              <div id="u16780_text" class="text ">
+                <p><span>精致洗车</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u16781" class="ax_default label">
+              <div id="u16781_div" class=""></div>
+              <div id="u16781_text" class="text ">
+                <p><span>有效期至:2019-03-31</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (垂直线) -->
+            <div id="u16782" class="ax_default line">
+              <img id="u16782_img" class="img " src="images/卡券/u16767.png"/>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u16783" class="ax_default label">
+              <div id="u16783_div" class=""></div>
+              <div id="u16783_text" class="text ">
+                <p><span>立</span></p><p><span>即</span></p><p><span>评</span></p><p><span>价</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u16784" class="ax_default box_17">
+              <div id="u16784_div" class=""></div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u16785" class="ax_default box_17">
+              <div id="u16785_div" class=""></div>
+              <div id="u16785_text" class="text ">
+                <p><span>¥99</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u16786" class="ax_default label">
+              <div id="u16786_div" class=""></div>
+              <div id="u16786_text" class="text ">
+                <p><span>爱尚汽车生活体验中心</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u16787" class="ax_default label">
+              <div id="u16787_div" class=""></div>
+              <div id="u16787_text" class="text ">
+                <p><span>精致洗车</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u16788" class="ax_default label">
+              <div id="u16788_div" class=""></div>
+              <div id="u16788_text" class="text ">
+                <p><span>有效期至:2019-03-31</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (垂直线) -->
+            <div id="u16789" class="ax_default line">
+              <img id="u16789_img" class="img " src="images/卡券/u16767.png"/>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u16790" class="ax_default label">
+              <div id="u16790_div" class=""></div>
+              <div id="u16790_text" class="text ">
+                <p><span>已</span></p><p><span>评</span></p><p><span>价</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u16791" class="ax_default box_17">
+              <div id="u16791_div" class=""></div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u16792" class="ax_default box_17">
+              <div id="u16792_div" class=""></div>
+              <div id="u16792_text" class="text ">
+                <p><span>¥99</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u16793" class="ax_default label">
+              <div id="u16793_div" class=""></div>
+              <div id="u16793_text" class="text ">
+                <p><span>爱尚汽车生活体验中心</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u16794" class="ax_default label">
+              <div id="u16794_div" class=""></div>
+              <div id="u16794_text" class="text ">
+                <p><span>精致洗车</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u16795" class="ax_default label">
+              <div id="u16795_div" class=""></div>
+              <div id="u16795_text" class="text ">
+                <p><span>有效期至:2019-03-31</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (垂直线) -->
+            <div id="u16796" class="ax_default line">
+              <img id="u16796_img" class="img " src="images/卡券/u16767.png"/>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u16797" class="ax_default label">
+              <div id="u16797_div" class=""></div>
+              <div id="u16797_text" class="text ">
+                <p><span>已</span></p><p><span>过</span></p><p><span>期</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u16798" class="ax_default box_17">
+              <div id="u16798_div" class=""></div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u16799" class="ax_default box_17">
+              <div id="u16799_div" class=""></div>
+              <div id="u16799_text" class="text ">
+                <p><span>¥99</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u16800" class="ax_default label">
+              <div id="u16800_div" class=""></div>
+              <div id="u16800_text" class="text ">
+                <p><span>爱尚汽车生活体验中心</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u16801" class="ax_default label">
+              <div id="u16801_div" class=""></div>
+              <div id="u16801_text" class="text ">
+                <p><span>精致洗车</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u16802" class="ax_default label">
+              <div id="u16802_div" class=""></div>
+              <div id="u16802_text" class="text ">
+                <p><span>有效期至:2019-03-31</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (垂直线) -->
+            <div id="u16803" class="ax_default line">
+              <img id="u16803_img" class="img " src="images/卡券/u16767.png"/>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u16804" class="ax_default label">
+              <div id="u16804_div" class=""></div>
+              <div id="u16804_text" class="text ">
+                <p><span>已</span></p><p><span>退</span></p><p><span>款</span></p>
+              </div>
+            </div>
+
+            <!-- hot (动态面板) -->
+            <div id="u16805" class="ax_default" data-label="hot">
+              <div id="u16805_state0" class="panel_state" data-label="State1" style="">
+                <div id="u16805_state0_content" class="panel_state_content">
+
+                  <!-- Unnamed (矩形) -->
+                  <div id="u16806" class="ax_default _默认样式">
+                    <img id="u16806_img" class="img " src="images/卡券/u16806.png"/>
+                    <div id="u16806_text" class="text ">
+                      <p><span>已用</span></p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- hot (动态面板) -->
+            <div id="u16807" class="ax_default" data-label="hot">
+              <div id="u16807_state0" class="panel_state" data-label="State1" style="">
+                <div id="u16807_state0_content" class="panel_state_content">
+
+                  <!-- Unnamed (矩形) -->
+                  <div id="u16808" class="ax_default _默认样式">
+                    <img id="u16808_img" class="img " src="images/卡券/u16806.png"/>
+                    <div id="u16808_text" class="text ">
+                      <p><span>已用</span></p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

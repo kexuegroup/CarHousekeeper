@@ -1,0 +1,460 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>我的卡劵V1.1.2</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/我的卡劵v1_1_2/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/prototypePre.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/prototypePost.js"></script>
+    <script src="files/我的卡劵v1_1_2/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (H5子模板) -->
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5390" class="ax_default box_1">
+        <div id="u5390_div" class=""></div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5391" class="ax_default box_1">
+        <div id="u5391_div" class=""></div>
+        <div id="u5391_text" class="text ">
+          <p><span>我的优惠劵</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5392" class="ax_default label">
+        <div id="u5392_div" class=""></div>
+        <div id="u5392_text" class="text ">
+          <p><span>&lt;</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (组 合) -->
+      <div id="u5393" class="ax_default" data-left="0" data-top="44" data-width="375" data-height="82">
+
+        <!-- Unnamed (菜单) -->
+        <div id="u5394" class="ax_default">
+          <img id="u5394_menu" class="img " src="images/我的卡劵v1_1_2/u5394_menu.png" alt="u5394_menu"/>
+
+          <!-- Unnamed (表格) -->
+          <div id="u5395" class="ax_default">
+
+            <!-- Unnamed (Menu Item) -->
+            <div id="u5396" class="ax_default menu_item">
+              <img id="u5396_img" class="img " src="images/我的卡劵v1_1_2/u5396.png"/>
+              <div id="u5396_text" class="text ">
+                <p><span>洗车劵</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (Menu Item) -->
+            <div id="u5397" class="ax_default menu_item">
+              <img id="u5397_img" class="img " src="images/我的卡劵v1_1_2/u5396.png"/>
+              <div id="u5397_text" class="text ">
+                <p><span>保养劵</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (Menu Item) -->
+            <div id="u5398" class="ax_default menu_item">
+              <img id="u5398_img" class="img " src="images/我的卡劵v1_1_2/u5398.png"/>
+              <div id="u5398_text" class="text ">
+                <p><span>车险劵</span></p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Unnamed (组 合) -->
+        <div id="u5399" class="ax_default" data-left="0" data-top="44" data-width="375" data-height="43">
+
+          <!-- Unnamed (矩形) -->
+          <div id="u5400" class="ax_default _形状">
+            <div id="u5400_div" class=""></div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u5401" class="ax_default _文本段落">
+            <div id="u5401_div" class=""></div>
+            <div id="u5401_text" class="text ">
+              <p><span>未使用(2)</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u5402" class="ax_default _文本段落">
+            <div id="u5402_div" class=""></div>
+            <div id="u5402_text" class="text ">
+              <p><span>已使用(2)</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u5403" class="ax_default _文本段落">
+            <div id="u5403_div" class=""></div>
+            <div id="u5403_text" class="text ">
+              <p><span>已失效(2)</span></p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5404" class="ax_default _形状">
+        <div id="u5404_div" class=""></div>
+      </div>
+
+      <!-- Unnamed (垂直线) -->
+      <div id="u5405" class="ax_default _垂直线">
+        <img id="u5405_img" class="img " src="images/我的卡劵v1_1_2/u5405.png"/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5406" class="ax_default _文本段落">
+        <div id="u5406_div" class=""></div>
+        <div id="u5406_text" class="text ">
+          <p><span>￥30</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5407" class="ax_default _文本段落">
+        <div id="u5407_div" class=""></div>
+        <div id="u5407_text" class="text ">
+          <p><span>洗车劵</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5408" class="ax_default _文本段落">
+        <div id="u5408_div" class=""></div>
+        <div id="u5408_text" class="text ">
+          <p style="font-size:16px;"><span style="font-family:'Arial Normal', 'Arial';font-weight:400;">可享受免费洗车1次</span></p><p style="font-size:13px;"><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;"><br></span></p><p style="font-size:13px;"><span style="font-family:'Arial Normal', 'Arial';font-weight:400;">有效期至:2018-08-08 23:59:59</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5409" class="ax_default _形状">
+        <div id="u5409_div" class=""></div>
+      </div>
+
+      <!-- Unnamed (垂直线) -->
+      <div id="u5410" class="ax_default _垂直线">
+        <img id="u5410_img" class="img " src="images/我的卡劵v1_1_2/u5405.png"/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5411" class="ax_default _文本段落">
+        <div id="u5411_div" class=""></div>
+        <div id="u5411_text" class="text ">
+          <p><span>￥30</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5412" class="ax_default _文本段落">
+        <div id="u5412_div" class=""></div>
+        <div id="u5412_text" class="text ">
+          <p><span>洗车劵</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5413" class="ax_default _文本段落">
+        <div id="u5413_div" class=""></div>
+        <div id="u5413_text" class="text ">
+          <p style="font-size:16px;"><span style="font-family:'Arial Normal', 'Arial';font-weight:400;">可享受免费洗车1次</span></p><p style="font-size:13px;"><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;"><br></span></p><p style="font-size:13px;"><span style="font-family:'Arial Normal', 'Arial';font-weight:400;">有效期至:2018-08-08 23:59:59</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5414" class="ax_default _形状">
+        <div id="u5414_div" class=""></div>
+      </div>
+
+      <!-- Unnamed (垂直线) -->
+      <div id="u5415" class="ax_default _垂直线">
+        <img id="u5415_img" class="img " src="images/我的卡劵v1_1_2/u5405.png"/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5416" class="ax_default _文本段落">
+        <div id="u5416_div" class=""></div>
+        <div id="u5416_text" class="text ">
+          <p><span>￥30</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5417" class="ax_default _文本段落">
+        <div id="u5417_div" class=""></div>
+        <div id="u5417_text" class="text ">
+          <p><span>洗车劵</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5418" class="ax_default _文本段落">
+        <div id="u5418_div" class=""></div>
+        <div id="u5418_text" class="text ">
+          <p style="font-size:16px;"><span style="font-family:'Arial Normal', 'Arial';font-weight:400;">可享受免费洗车1次</span></p><p style="font-size:13px;"><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;"><br></span></p><p style="font-size:13px;"><span style="font-family:'Arial Normal', 'Arial';font-weight:400;">有效期至:2018-08-08 23:59:59</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5419" class="ax_default _形状">
+        <div id="u5419_div" class=""></div>
+      </div>
+
+      <!-- Unnamed (垂直线) -->
+      <div id="u5420" class="ax_default _垂直线">
+        <img id="u5420_img" class="img " src="images/我的卡劵v1_1_2/u5405.png"/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5421" class="ax_default _文本段落">
+        <div id="u5421_div" class=""></div>
+        <div id="u5421_text" class="text ">
+          <p><span>￥30</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5422" class="ax_default _文本段落">
+        <div id="u5422_div" class=""></div>
+        <div id="u5422_text" class="text ">
+          <p><span>洗车劵</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5423" class="ax_default _文本段落">
+        <div id="u5423_div" class=""></div>
+        <div id="u5423_text" class="text ">
+          <p style="font-size:16px;"><span style="font-family:'Arial Normal', 'Arial';font-weight:400;">可享受免费洗车1次</span></p><p style="font-size:13px;"><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;"><br></span></p><p style="font-size:13px;"><span style="font-family:'Arial Normal', 'Arial';font-weight:400;">有效期至:2018-08-08 23:59:59</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5424" class="ax_default _形状">
+        <div id="u5424_div" class=""></div>
+      </div>
+
+      <!-- Unnamed (垂直线) -->
+      <div id="u5425" class="ax_default _垂直线">
+        <img id="u5425_img" class="img " src="images/我的卡劵v1_1_2/u5405.png"/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5426" class="ax_default _文本段落">
+        <div id="u5426_div" class=""></div>
+        <div id="u5426_text" class="text ">
+          <p style="font-size:14px;"><span style="font-family:'Arial Normal', 'Arial';font-weight:400;font-size:16px;">￥</span><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;">金额</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5427" class="ax_default _文本段落">
+        <div id="u5427_div" class=""></div>
+        <div id="u5427_text" class="text ">
+          <p><span>劵名称</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5428" class="ax_default _文本段落">
+        <div id="u5428_div" class=""></div>
+        <div id="u5428_text" class="text ">
+          <p style="font-size:16px;"><span style="font-family:'Arial Normal', 'Arial';font-weight:400;">洗车劵服务内容</span></p><p style="font-size:13px;"><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;"><br></span></p><p style="font-size:13px;"><span style="font-family:'Arial Normal', 'Arial';font-weight:400;">劵有效截止期</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5429" class="ax_default _形状">
+        <div id="u5429_div" class=""></div>
+      </div>
+
+      <!-- Unnamed (花括号) -->
+      <div id="u5430" class="ax_default _垂直线">
+        <img id="u5430_img" class="img " src="images/我的卡劵v1_1_2/u5430.png"/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5431" class="ax_default _文本段落">
+        <div id="u5431_div" class=""></div>
+        <div id="u5431_text" class="text ">
+          <p><span>￥30</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5432" class="ax_default _文本段落">
+        <div id="u5432_div" class=""></div>
+        <div id="u5432_text" class="text ">
+          <p><span>洗车劵</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5433" class="ax_default _文本段落">
+        <div id="u5433_div" class=""></div>
+        <div id="u5433_text" class="text ">
+          <p style="font-size:16px;"><span style="font-family:'Arial Normal', 'Arial';font-weight:400;">可享受免费洗车1次</span></p><p style="font-size:13px;"><span style="font-family:'Arial Negreta', 'Arial';font-weight:700;"><br></span></p><p style="font-size:13px;"><span style="font-family:'Arial Normal', 'Arial';font-weight:400;">有效期至:2018-08-08 23:59:59</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5434" class="ax_default image">
+        <img id="u5434_img" class="img " src="images/我的卡劵v1_1_2/u5434.png"/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5435" class="ax_default image">
+        <img id="u5435_img" class="img " src="images/我的卡劵v1_1_2/u5435.png"/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5436" class="ax_default image">
+        <img id="u5436_img" class="img " src="images/我的卡劵v1_1_2/u5434.png"/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5437" class="ax_default image">
+        <img id="u5437_img" class="img " src="images/我的卡劵v1_1_2/u5435.png"/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5438" class="ax_default image">
+        <img id="u5438_img" class="img " src="images/我的卡劵v1_1_2/u5438.png"/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5439" class="ax_default image">
+        <img id="u5439_img" class="img " src="images/我的卡劵v1_1_2/u5439.png"/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5440" class="ax_default image">
+        <img id="u5440_img" class="img " src="images/我的卡劵v1_1_2/u5439.png"/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5441" class="ax_default image">
+        <img id="u5441_img" class="img " src="images/我的卡劵v1_1_2/u5439.png"/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5442" class="ax_default image">
+        <img id="u5442_img" class="img " src="images/我的卡劵v1_1_2/u5439.png"/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5443" class="ax_default image">
+        <img id="u5443_img" class="img " src="images/我的卡劵v1_1_2/u5439.png"/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u5444" class="ax_default image">
+        <img id="u5444_img" class="img " src="images/我的卡劵v1_1_2/u5439.png"/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5445" class="ax_default button">
+        <div id="u5445_div" class=""></div>
+        <div id="u5445_text" class="text ">
+          <p><span>去使用</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5446" class="ax_default button">
+        <div id="u5446_div" class=""></div>
+        <div id="u5446_text" class="text ">
+          <p><span>去使用</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5447" class="ax_default box_2">
+        <div id="u5447_div" class=""></div>
+      </div>
+
+      <!-- Unnamed (组 合) -->
+      <div id="u5448" class="ax_default" data-left="0" data-top="413" data-width="376" data-height="254">
+
+        <!-- Unnamed (矩形) -->
+        <div id="u5449" class="ax_default _默认样式">
+          <div id="u5449_div" class=""></div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u5450" class="ax_default _默认样式 selected" selectiongroup="tab-basic-bnt">
+          <div id="u5450_div" class="selected"></div>
+          <div id="u5450_text" class="text ">
+            <p><span>关闭</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (图片) -->
+        <div id="u5451" class="ax_default image">
+          <img id="u5451_img" class="img " src="images/我的卡劵v1_1_2/u5451.png"/>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u5452" class="ax_default label">
+          <div id="u5452_div" class=""></div>
+          <div id="u5452_text" class="text ">
+            <p><span>洗车劵</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u5453" class="ax_default label">
+          <div id="u5453_div" class=""></div>
+          <div id="u5453_text" class="text ">
+            <p><span>服务完成后，请勾选门店确认消费</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u5454" class="ax_default _默认样式 selected" selectiongroup="tab-basic-bnt">
+          <div id="u5454_div" class="selected"></div>
+          <div id="u5454_text" class="text ">
+            <p><span>确认消费</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u5455" class="ax_default box_2">
+          <div id="u5455_div" class=""></div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u5456" class="ax_default label">
+          <div id="u5456_div" class=""></div>
+          <div id="u5456_text" class="text ">
+            <p><span>劵码：</span><span style="color:#FF0000;">No.2018 0816 0601</span></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

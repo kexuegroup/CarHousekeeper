@@ -1,0 +1,437 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>品牌选择</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/品牌选择/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/prototypePre.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/prototypePost.js"></script>
+    <script src="files/品牌选择/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (H5子模板) -->
+
+      <!-- Unnamed (矩形) -->
+      <div id="u15071" class="ax_default box_1">
+        <div id="u15071_div" class=""></div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u15072" class="ax_default box_1">
+        <div id="u15072_div" class=""></div>
+      </div>
+
+      <!-- Unnamed (文本框) -->
+      <div id="u15073" class="ax_default text_field">
+        <input id="u15073_input" type="text" value=""/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u15074" class="ax_default image">
+        <img id="u15074_img" class="img " src="images/定位/u638.png"/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u15075" class="ax_default label">
+        <div id="u15075_div" class=""></div>
+        <div id="u15075_text" class="text ">
+          <p><span>&lt;</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u15076" class="ax_default label">
+        <div id="u15076_div" class=""></div>
+        <div id="u15076_text" class="text ">
+          <p><span>热门品牌</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u15077" class="ax_default box_1">
+        <div id="u15077_div" class=""></div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u15078" class="ax_default box_3">
+        <div id="u15078_div" class=""></div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u15079" class="ax_default label">
+        <div id="u15079_div" class=""></div>
+        <div id="u15079_text" class="text ">
+          <p><span>热门品牌</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u15080" class="ax_default label">
+        <div id="u15080_div" class=""></div>
+        <div id="u15080_text" class="text ">
+          <p><span>索</span></p><p><span>引</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (表格) -->
+      <div id="u15081" class="ax_default">
+
+        <!-- Unnamed (单元格) -->
+        <div id="u15082" class="ax_default table_cell">
+          <img id="u15082_img" class="img " src="images/定位/u643.png"/>
+          <div id="u15082_text" class="text ">
+            <p><span>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; 阿尔法·罗密欧</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u15083" class="ax_default table_cell">
+          <img id="u15083_img" class="img " src="images/定位/u643.png"/>
+          <div id="u15083_text" class="text ">
+            <p><span>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; 阿斯顿·马丁</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u15084" class="ax_default table_cell">
+          <img id="u15084_img" class="img " src="images/定位/u643.png"/>
+          <div id="u15084_text" class="text ">
+            <p><span>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; 奥迪</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u15085" class="ax_default table_cell">
+          <img id="u15085_img" class="img " src="images/定位/u648.png"/>
+          <div id="u15085_text" class="text ">
+            <p><span>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; ALPINA</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u15086" class="ax_default box_3">
+        <div id="u15086_div" class=""></div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u15087" class="ax_default label">
+        <div id="u15087_div" class=""></div>
+        <div id="u15087_text" class="text ">
+          <p><span>A</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (表格) -->
+      <div id="u15088" class="ax_default">
+
+        <!-- Unnamed (单元格) -->
+        <div id="u15089" class="ax_default table_cell">
+          <img id="u15089_img" class="img " src="images/定位/u643.png"/>
+          <div id="u15089_text" class="text ">
+            <p><span>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; 巴博斯</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u15090" class="ax_default table_cell">
+          <img id="u15090_img" class="img " src="images/定位/u643.png"/>
+          <div id="u15090_text" class="text ">
+            <p><span>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; 宝骏</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u15091" class="ax_default table_cell">
+          <img id="u15091_img" class="img " src="images/定位/u643.png"/>
+          <div id="u15091_text" class="text ">
+            <p><span>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; 宝马</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u15092" class="ax_default table_cell">
+          <img id="u15092_img" class="img " src="images/定位/u643.png"/>
+          <div id="u15092_text" class="text ">
+            <p><span>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; 保时捷</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u15093" class="ax_default table_cell">
+          <img id="u15093_img" class="img " src="images/定位/u643.png"/>
+          <div id="u15093_text" class="text ">
+            <p><span>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; 北京</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u15094" class="ax_default table_cell">
+          <img id="u15094_img" class="img " src="images/定位/u643.png"/>
+          <div id="u15094_text" class="text ">
+            <p><span>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; 奔驰</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u15095" class="ax_default table_cell">
+          <img id="u15095_img" class="img " src="images/定位/u648.png"/>
+          <div id="u15095_text" class="text ">
+            <p><span>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; 奔腾</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u15096" class="ax_default box_3">
+        <div id="u15096_div" class=""></div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u15097" class="ax_default label">
+        <div id="u15097_div" class=""></div>
+        <div id="u15097_text" class="text ">
+          <p><span>B</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u15098" class="ax_default label">
+        <div id="u15098_div" class=""></div>
+        <div id="u15098_text" class="text ">
+          <p><span>ABCDEFGKLMNOPQRSTUVWXYZ</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u15099" class="ax_default image">
+        <img id="u15099_img" class="img " src="images/品牌选择/u15099.png"/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u15100" class="ax_default image">
+        <img id="u15100_img" class="img " src="images/品牌选择/u15099.png"/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u15101" class="ax_default image">
+        <img id="u15101_img" class="img " src="images/品牌选择/u15099.png"/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u15102" class="ax_default image">
+        <img id="u15102_img" class="img " src="images/品牌选择/u15099.png"/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u15103" class="ax_default image">
+        <img id="u15103_img" class="img " src="images/品牌选择/u15099.png"/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u15104" class="ax_default image">
+        <img id="u15104_img" class="img " src="images/品牌选择/u15099.png"/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u15105" class="ax_default image">
+        <img id="u15105_img" class="img " src="images/品牌选择/u15099.png"/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u15106" class="ax_default image">
+        <img id="u15106_img" class="img " src="images/品牌选择/u15099.png"/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u15107" class="ax_default image">
+        <img id="u15107_img" class="img " src="images/品牌选择/u15099.png"/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u15108" class="ax_default image">
+        <img id="u15108_img" class="img " src="images/品牌选择/u15099.png"/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u15109" class="ax_default image">
+        <img id="u15109_img" class="img " src="images/品牌选择/u15099.png"/>
+      </div>
+
+      <!-- Unnamed (表格) -->
+      <div id="u15110" class="ax_default">
+
+        <!-- Unnamed (单元格) -->
+        <div id="u15111" class="ax_default table_cell">
+          <img id="u15111_img" class="img " src="images/品牌选择/u15111.png"/>
+          <div id="u15111_text" class="text ">
+            <p><span>红旗</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u15112" class="ax_default table_cell">
+          <img id="u15112_img" class="img " src="images/品牌选择/u15111.png"/>
+          <div id="u15112_text" class="text ">
+            <p><span>奥迪</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u15113" class="ax_default table_cell">
+          <img id="u15113_img" class="img " src="images/品牌选择/u15111.png"/>
+          <div id="u15113_text" class="text ">
+            <p><span>宝马</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u15114" class="ax_default table_cell">
+          <img id="u15114_img" class="img " src="images/品牌选择/u15114.png"/>
+          <div id="u15114_text" class="text ">
+            <p><span>路虎</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u15115" class="ax_default table_cell">
+          <img id="u15115_img" class="img " src="images/品牌选择/u15111.png"/>
+          <div id="u15115_text" class="text ">
+            <p><span>奔驰</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u15116" class="ax_default table_cell">
+          <img id="u15116_img" class="img " src="images/品牌选择/u15111.png"/>
+          <div id="u15116_text" class="text ">
+            <p><span>大众</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u15117" class="ax_default table_cell">
+          <img id="u15117_img" class="img " src="images/品牌选择/u15111.png"/>
+          <div id="u15117_text" class="text ">
+            <p><span>丰田</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u15118" class="ax_default table_cell">
+          <img id="u15118_img" class="img " src="images/品牌选择/u15114.png"/>
+          <div id="u15118_text" class="text ">
+            <p><span>本田</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u15119" class="ax_default table_cell">
+          <img id="u15119_img" class="img " src="images/品牌选择/u15119.png"/>
+          <div id="u15119_text" class="text ">
+            <p><span>哈佛</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u15120" class="ax_default table_cell">
+          <img id="u15120_img" class="img " src="images/品牌选择/u15119.png"/>
+          <div id="u15120_text" class="text ">
+            <p><span>别克</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u15121" class="ax_default table_cell">
+          <img id="u15121_img" class="img " src="images/品牌选择/u15119.png"/>
+          <div id="u15121_text" class="text ">
+            <p><span>宾利</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u15122" class="ax_default table_cell">
+          <img id="u15122_img" class="img " src="images/品牌选择/u15122.png"/>
+          <div id="u15122_text" class="text ">
+            <p><span>东风</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u15123" class="ax_default image">
+        <img id="u15123_img" class="img " src="images/品牌选择/u15123.png"/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u15124" class="ax_default image">
+        <img id="u15124_img" class="img " src="images/品牌选择/u15123.png"/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u15125" class="ax_default image">
+        <img id="u15125_img" class="img " src="images/品牌选择/u15123.png"/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u15126" class="ax_default image">
+        <img id="u15126_img" class="img " src="images/品牌选择/u15123.png"/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u15127" class="ax_default image">
+        <img id="u15127_img" class="img " src="images/品牌选择/u15123.png"/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u15128" class="ax_default image">
+        <img id="u15128_img" class="img " src="images/品牌选择/u15123.png"/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u15129" class="ax_default image">
+        <img id="u15129_img" class="img " src="images/品牌选择/u15123.png"/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u15130" class="ax_default image">
+        <img id="u15130_img" class="img " src="images/品牌选择/u15123.png"/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u15131" class="ax_default image">
+        <img id="u15131_img" class="img " src="images/品牌选择/u15123.png"/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u15132" class="ax_default image">
+        <img id="u15132_img" class="img " src="images/品牌选择/u15123.png"/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u15133" class="ax_default image">
+        <img id="u15133_img" class="img " src="images/品牌选择/u15123.png"/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u15134" class="ax_default image">
+        <img id="u15134_img" class="img " src="images/品牌选择/u15123.png"/>
+      </div>
+    </div>
+  </body>
+</html>

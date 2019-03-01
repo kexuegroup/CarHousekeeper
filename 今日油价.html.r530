@@ -1,0 +1,416 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>今日油价</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/今日油价/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/prototypePre.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/prototypePost.js"></script>
+    <script src="files/今日油价/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (动态面板) -->
+      <div id="u2527" class="ax_default">
+        <div id="u2527_state0" class="panel_state" data-label="State1" style="">
+          <div id="u2527_state0_content" class="panel_state_content">
+
+            <!-- Unnamed (图片) -->
+            <div id="u2528" class="ax_default image">
+              <img id="u2528_img" class="img " src="images/今日油价/u2528.png"/>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u2529" class="ax_default image">
+        <img id="u2529_img" class="img " src="images/登录_注册/u205.png"/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u2530" class="ax_default image">
+        <img id="u2530_img" class="img " src="images/登录_注册/u206.png"/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u2531" class="ax_default image">
+        <img id="u2531_img" class="img " src="images/登录_注册/u207.png"/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u2532" class="ax_default image">
+        <img id="u2532_img" class="img " src="images/登录_注册/u208.png"/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2533" class="ax_default box_13">
+        <img id="u2533_img" class="img " src="images/登录_注册/u210.png"/>
+        <div id="u2533_text" class="text ">
+          <p><span>今日油价</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u2534" class="ax_default _图片3">
+        <img id="u2534_img" class="img " src="images/登录_注册/u211.png"/>
+      </div>
+
+      <!-- Unnamed (组 合) -->
+      <div id="u2535" class="ax_default" data-left="390" data-top="149" data-width="60" data-height="22">
+
+        <!-- Unnamed (矩形) -->
+        <div id="u2536" class="ax_default box_11">
+          <img id="u2536_img" class="img " src="images/登录_注册/u213.png"/>
+        </div>
+
+        <!-- Unnamed (椭圆形) -->
+        <div id="u2537" class="ax_default ellipse2">
+          <img id="u2537_img" class="img " src="images/登录_注册/u214.png"/>
+        </div>
+
+        <!-- Unnamed (椭圆形) -->
+        <div id="u2538" class="ax_default ellipse2">
+          <img id="u2538_img" class="img " src="images/登录_注册/u215.png"/>
+        </div>
+
+        <!-- Unnamed (椭圆形) -->
+        <div id="u2539" class="ax_default ellipse2">
+          <img id="u2539_img" class="img " src="images/登录_注册/u214.png"/>
+        </div>
+
+        <!-- Unnamed (垂直线) -->
+        <div id="u2540" class="ax_default line3">
+          <img id="u2540_img" class="img " src="images/登录_注册/u217.png"/>
+        </div>
+
+        <!-- Unnamed (椭圆形) -->
+        <div id="u2541" class="ax_default ellipse2">
+          <img id="u2541_img" class="img " src="images/登录_注册/u218.png"/>
+        </div>
+
+        <!-- Unnamed (椭圆形) -->
+        <div id="u2542" class="ax_default ellipse2">
+          <img id="u2542_img" class="img " src="images/登录_注册/u219.png"/>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u2543" class="ax_default _图片3">
+        <img id="u2543_img" class="img " src="images/登录_注册/u220.png"/>
+      </div>
+
+      <!-- Unnamed (组 合) -->
+      <div id="u2544" class="ax_default" data-left="601" data-top="0" data-width="848" data-height="650">
+
+        <!-- Unnamed (组 合) -->
+        <div id="u2545" class="ax_default" data-left="601" data-top="0" data-width="848" data-height="650">
+
+          <!-- Unnamed (表格) -->
+          <div id="u2546" class="ax_default">
+
+            <!-- Unnamed (单元格) -->
+            <div id="u2547" class="ax_default table_cell">
+              <img id="u2547_img" class="img " src="images/我的爱车/u1660.png"/>
+              <div id="u2547_text" class="text ">
+                <p><span style="color:#515151;">用例名称</span><span style="color:#FF0000;">*</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u2548" class="ax_default table_cell">
+              <img id="u2548_img" class="img " src="images/加油站/u1841.png"/>
+              <div id="u2548_text" class="text ">
+                <p><span>今日油价</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u2549" class="ax_default table_cell">
+              <img id="u2549_img" class="img " src="images/我的爱车/u1662.png"/>
+              <div id="u2549_text" class="text ">
+                <p><span style="color:#515151;">用例编号</span><span style="color:#FF0000;">*</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u2550" class="ax_default table_cell">
+              <img id="u2550_img" class="img " src="images/加油站/u1843.png"/>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u2551" class="ax_default table_cell">
+              <img id="u2551_img" class="img " src="images/我的爱车/u1662.png"/>
+              <div id="u2551_text" class="text ">
+                <p><span style="color:#515151;">操作角色</span><span style="color:#FF0000;">*</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u2552" class="ax_default table_cell">
+              <img id="u2552_img" class="img " src="images/加油站/u1843.png"/>
+              <div id="u2552_text" class="text ">
+                <p><span>车主</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u2553" class="ax_default table_cell">
+              <img id="u2553_img" class="img " src="images/我的爱车/u1662.png"/>
+              <div id="u2553_text" class="text ">
+                <p><span style="color:#515151;">优先级</span><span style="color:#FF0000;">*</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u2554" class="ax_default table_cell">
+              <img id="u2554_img" class="img " src="images/加油站/u1843.png"/>
+              <div id="u2554_text" class="text ">
+                <p><span>高</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u2555" class="ax_default table_cell">
+              <img id="u2555_img" class="img " src="images/我的爱车/u1662.png"/>
+              <div id="u2555_text" class="text ">
+                <p><span style="color:#515151;">功能目标</span><span style="color:#FF0000;">*</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u2556" class="ax_default table_cell">
+              <img id="u2556_img" class="img " src="images/加油站/u1843.png"/>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u2557" class="ax_default table_cell">
+              <img id="u2557_img" class="img " src="images/我的爱车/u1670.png"/>
+              <div id="u2557_text" class="text ">
+                <p><span>前置条件</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u2558" class="ax_default table_cell">
+              <img id="u2558_img" class="img " src="images/加油站/u1851.png"/>
+            </div>
+          </div>
+
+          <!-- Unnamed (组 合) -->
+          <div id="u2559" class="ax_default" data-left="601" data-top="185" data-width="848" data-height="465">
+
+            <!-- Unnamed (表格) -->
+            <div id="u2560" class="ax_default">
+
+              <!-- Unnamed (单元格) -->
+              <div id="u2561" class="ax_default _需求字体">
+                <img id="u2561_img" class="img " src="images/今日油价/u2561.png"/>
+                <div id="u2561_text" class="text ">
+                  <p><span>编号</span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u2562" class="ax_default _需求字体">
+                <img id="u2562_img" class="img " src="images/今日油价/u2562.png"/>
+                <div id="u2562_text" class="text ">
+                  <p><span>名称</span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u2563" class="ax_default _需求字体">
+                <img id="u2563_img" class="img " src="images/加油站/u1856.png"/>
+                <div id="u2563_text" class="text ">
+                  <p><span>需求描述</span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u2564" class="ax_default _需求字体">
+                <img id="u2564_img" class="img " src="images/加油站/u1857.png"/>
+                <div id="u2564_text" class="text ">
+                  <p><span>备注</span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u2565" class="ax_default _需求字体">
+                <img id="u2565_img" class="img " src="images/今日油价/u2565.png"/>
+                <div id="u2565_text" class="text ">
+                  <p><span>1</span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u2566" class="ax_default _需求字体">
+                <img id="u2566_img" class="img " src="images/今日油价/u2566.png"/>
+                <div id="u2566_text" class="text ">
+                  <p><span>权限控制</span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u2567" class="ax_default _需求字体">
+                <img id="u2567_img" class="img " src="images/今日油价/u2567.png"/>
+                <div id="u2567_text" class="text ">
+                  <p><span>1.今日油价第三方接口；</span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u2568" class="ax_default table_cell">
+                <img id="u2568_img" class="img " src="images/今日油价/u2568.png"/>
+                <div id="u2568_text" class="text ">
+                  <p><span>第三方油价查询接口路径：https://www.jisuapi.com/api/oil/</span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u2569" class="ax_default _需求字体">
+                <img id="u2569_img" class="img " src="images/今日油价/u2569.png"/>
+                <div id="u2569_text" class="text ">
+                  <p><span>2</span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u2570" class="ax_default _需求字体">
+                <img id="u2570_img" class="img " src="images/今日油价/u2570.png"/>
+                <div id="u2570_text" class="text ">
+                  <p><span>当前定位</span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u2571" class="ax_default _需求字体">
+                <img id="u2571_img" class="img " src="images/加油站/u1868.png"/>
+                <div id="u2571_text" class="text ">
+                  <p><span>1.同首页“定位服务”；</span></p><p><span>2.位置变动时，油价也要刷新为当前城市的油价；</span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u2572" class="ax_default table_cell">
+                <img id="u2572_img" class="img " src="images/加油站/u1869.png"/>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u2573" class="ax_default _需求字体">
+                <img id="u2573_img" class="img " src="images/今日油价/u2573.png"/>
+                <div id="u2573_text" class="text ">
+                  <p><span>3</span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u2574" class="ax_default _需求字体">
+                <img id="u2574_img" class="img " src="images/今日油价/u2574.png"/>
+                <div id="u2574_text" class="text ">
+                  <p><span>今日油价</span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u2575" class="ax_default _需求字体">
+                <img id="u2575_img" class="img " src="images/今日油价/u2575.png"/>
+                <div id="u2575_text" class="text ">
+                  <p><span>1 今日油价通过爬取数据更新，更新频率：2次/天，分别为：6:00、9:00（如果系统6:00才去爬取当日油价，则当00:00~6:00时，显示昨天爬取到的油价）</span></p><p><span>2.油价保存维度：区域、每天、汽油类型</span></p><p><span>3.汽油类型：92#、95#、89#、0#</span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u2576" class="ax_default table_cell">
+                <img id="u2576_img" class="img " src="images/今日油价/u2576.png"/>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u2577" class="ax_default _需求字体">
+                <img id="u2577_img" class="img " src="images/今日油价/u2573.png"/>
+                <div id="u2577_text" class="text ">
+                  <p><span>4</span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u2578" class="ax_default _需求字体">
+                <img id="u2578_img" class="img " src="images/今日油价/u2574.png"/>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u2579" class="ax_default _需求字体">
+                <img id="u2579_img" class="img " src="images/今日油价/u2575.png"/>
+                <div id="u2579_text" class="text ">
+                  <p><span>请参考一点车今日油价页面</span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u2580" class="ax_default table_cell">
+                <img id="u2580_img" class="img " src="images/今日油价/u2576.png"/>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u2581" class="ax_default _需求字体">
+                <img id="u2581_img" class="img " src="images/今日油价/u2581.png"/>
+                <div id="u2581_text" class="text ">
+                  <p><span>5</span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u2582" class="ax_default _需求字体">
+                <img id="u2582_img" class="img " src="images/今日油价/u2582.png"/>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u2583" class="ax_default _需求字体">
+                <img id="u2583_img" class="img " src="images/今日油价/u2583.png"/>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u2584" class="ax_default table_cell">
+                <img id="u2584_img" class="img " src="images/今日油价/u2584.png"/>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u2585" class="ax_default _需求字体">
+                <img id="u2585_img" class="img " src="images/今日油价/u2585.png"/>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u2586" class="ax_default _需求字体">
+                <img id="u2586_img" class="img " src="images/今日油价/u2586.png"/>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u2587" class="ax_default _需求字体">
+                <img id="u2587_img" class="img " src="images/今日油价/u2587.png"/>
+              </div>
+
+              <!-- Unnamed (单元格) -->
+              <div id="u2588" class="ax_default table_cell">
+                <img id="u2588_img" class="img " src="images/今日油价/u2588.png"/>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

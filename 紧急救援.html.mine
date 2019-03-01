@@ -1,0 +1,467 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>紧急救援</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/紧急救援/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/prototypePre.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/prototypePost.js"></script>
+    <script src="files/紧急救援/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (H5子模板) -->
+
+      <!-- Unnamed (矩形) -->
+      <div id="u14465" class="ax_default box_1">
+        <div id="u14465_div" class=""></div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u14466" class="ax_default box_1">
+        <div id="u14466_div" class=""></div>
+        <div id="u14466_text" class="text ">
+          <p><span>紧急救援</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u14467" class="ax_default label">
+        <div id="u14467_div" class=""></div>
+        <div id="u14467_text" class="text ">
+          <p><span>&lt;</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (动态面板) -->
+      <div id="u14468" class="ax_default">
+        <div id="u14468_state0" class="panel_state" data-label="State1" style="">
+          <div id="u14468_state0_content" class="panel_state_content">
+
+            <!-- Unnamed (矩形) -->
+            <div id="u14469" class="ax_default box_2">
+              <div id="u14469_div" class=""></div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u14470" class="ax_default button">
+              <div id="u14470_div" class=""></div>
+              <div id="u14470_text" class="text ">
+                <p><span>换轮胎</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u14471" class="ax_default button">
+              <div id="u14471_div" class=""></div>
+              <div id="u14471_text" class="text ">
+                <p><span>搭电</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u14472" class="ax_default button">
+              <div id="u14472_div" class=""></div>
+              <div id="u14472_text" class="text ">
+                <p><span>快补胎</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u14473" class="ax_default button">
+              <div id="u14473_div" class=""></div>
+              <div id="u14473_text" class="text ">
+                <p><span>换电瓶</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u14474" class="ax_default button">
+              <div id="u14474_div" class=""></div>
+              <div id="u14474_text" class="text ">
+                <p><span>拖车</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (矩形) -->
+            <div id="u14475" class="ax_default button">
+              <div id="u14475_div" class=""></div>
+              <div id="u14475_text" class="text ">
+                <p><span>开锁</span></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (占位符) -->
+      <div id="u14476" class="ax_default placeholder">
+        <img id="u14476_img" class="img " src="images/紧急救援/u14476.png"/>
+        <div id="u14476_text" class="text ">
+          <p><span>车主地图定位位置</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u14477" class="ax_default box_1">
+        <div id="u14477_div" class=""></div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u14478" class="ax_default label">
+        <div id="u14478_div" class=""></div>
+        <div id="u14478_text" class="text ">
+          <p><span>4S店</span></p><p><span><br></span></p><p><span>联系人</span></p><p><span><br></span></p><p><span>联系电话</span></p><p><span><br></span></p><p><span>车型</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u14479" class="ax_default label">
+        <div id="u14479_div" class=""></div>
+        <div id="u14479_text" class="text ">
+          <p><span>请选择4S店 &gt;</span></p><p><span><br></span></p><p><span>请输入联系人</span></p><p><span><br></span></p><p><span>13632832053</span></p><p><span><br></span></p><p><span>一汽奥迪A3自动版&gt;</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u14480" class="ax_default label">
+        <div id="u14480_div" class=""></div>
+        <div id="u14480_text" class="text ">
+          <p><span>上传现场图片</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (表格) -->
+      <div id="u14481" class="ax_default">
+
+        <!-- Unnamed (单元格) -->
+        <div id="u14482" class="ax_default menu_item">
+          <img id="u14482_img" class="img " src="images/我的卡劵v1_1_2/u6579_menu.png"/>
+          <div id="u14482_text" class="text ">
+            <p><span>提交申请</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (组 合) -->
+      <div id="u14483" class="ax_default" data-left="701" data-top="0" data-width="679" data-height="463">
+
+        <!-- Unnamed (表格) -->
+        <div id="u14484" class="ax_default">
+
+          <!-- Unnamed (单元格) -->
+          <div id="u14485" class="ax_default table_cell">
+            <img id="u14485_img" class="img " src="images/我的爱车/u1517.png"/>
+            <div id="u14485_text" class="text ">
+              <p><span style="color:#515151;">用例名称</span><span style="color:#FF0000;">*</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u14486" class="ax_default table_cell">
+            <img id="u14486_img" class="img " src="images/我的爱车/u1518.png"/>
+            <div id="u14486_text" class="text ">
+              <p><span>服务</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u14487" class="ax_default table_cell">
+            <img id="u14487_img" class="img " src="images/我的爱车/u1519.png"/>
+            <div id="u14487_text" class="text ">
+              <p><span style="color:#515151;">用例编号</span><span style="color:#FF0000;">*</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u14488" class="ax_default table_cell">
+            <img id="u14488_img" class="img " src="images/我的爱车/u1520.png"/>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u14489" class="ax_default table_cell">
+            <img id="u14489_img" class="img " src="images/我的爱车/u1519.png"/>
+            <div id="u14489_text" class="text ">
+              <p><span style="color:#515151;">操作角色</span><span style="color:#FF0000;">*</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u14490" class="ax_default table_cell">
+            <img id="u14490_img" class="img " src="images/我的爱车/u1520.png"/>
+            <div id="u14490_text" class="text ">
+              <p><span>车主</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u14491" class="ax_default table_cell">
+            <img id="u14491_img" class="img " src="images/我的爱车/u1519.png"/>
+            <div id="u14491_text" class="text ">
+              <p><span style="color:#515151;">优先级</span><span style="color:#FF0000;">*</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u14492" class="ax_default table_cell">
+            <img id="u14492_img" class="img " src="images/我的爱车/u1520.png"/>
+            <div id="u14492_text" class="text ">
+              <p><span>高</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u14493" class="ax_default table_cell">
+            <img id="u14493_img" class="img " src="images/我的爱车/u1519.png"/>
+            <div id="u14493_text" class="text ">
+              <p><span style="color:#515151;">功能目标</span><span style="color:#FF0000;">*</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u14494" class="ax_default table_cell">
+            <img id="u14494_img" class="img " src="images/我的爱车/u1520.png"/>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u14495" class="ax_default table_cell">
+            <img id="u14495_img" class="img " src="images/我的爱车/u1527.png"/>
+            <div id="u14495_text" class="text ">
+              <p><span>前置条件</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (单元格) -->
+          <div id="u14496" class="ax_default table_cell">
+            <img id="u14496_img" class="img " src="images/我的爱车/u1528.png"/>
+          </div>
+        </div>
+
+        <!-- Unnamed (组 合) -->
+        <div id="u14497" class="ax_default" data-left="701" data-top="185" data-width="679" data-height="278">
+
+          <!-- Unnamed (表格) -->
+          <div id="u14498" class="ax_default">
+
+            <!-- Unnamed (单元格) -->
+            <div id="u14499" class="ax_default _需求字体">
+              <img id="u14499_img" class="img " src="images/我的爱车/u1531.png"/>
+              <div id="u14499_text" class="text ">
+                <p><span>编号</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u14500" class="ax_default _需求字体">
+              <img id="u14500_img" class="img " src="images/我的爱车/u1532.png"/>
+              <div id="u14500_text" class="text ">
+                <p><span>名称</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u14501" class="ax_default _需求字体">
+              <img id="u14501_img" class="img " src="images/我的爱车/u1533.png"/>
+              <div id="u14501_text" class="text ">
+                <p><span>需求描述</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u14502" class="ax_default _需求字体">
+              <img id="u14502_img" class="img " src="images/我的爱车/u1534.png"/>
+              <div id="u14502_text" class="text ">
+                <p><span>备注</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u14503" class="ax_default _需求字体">
+              <img id="u14503_img" class="img " src="images/我的爱车/u1543.png"/>
+              <div id="u14503_text" class="text ">
+                <p><span>1</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u14504" class="ax_default _需求字体">
+              <img id="u14504_img" class="img " src="images/我的爱车/u1544.png"/>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u14505" class="ax_default _需求字体">
+              <img id="u14505_img" class="img " src="images/我的爱车/u1545.png"/>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u14506" class="ax_default table_cell">
+              <img id="u14506_img" class="img " src="images/我的爱车/u1546.png"/>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u14507" class="ax_default _需求字体">
+              <img id="u14507_img" class="img " src="images/我的爱车/u1543.png"/>
+              <div id="u14507_text" class="text ">
+                <p><span>2</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u14508" class="ax_default _需求字体">
+              <img id="u14508_img" class="img " src="images/我的爱车/u1544.png"/>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u14509" class="ax_default _需求字体">
+              <img id="u14509_img" class="img " src="images/我的爱车/u1545.png"/>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u14510" class="ax_default table_cell">
+              <img id="u14510_img" class="img " src="images/我的爱车/u1546.png"/>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u14511" class="ax_default _需求字体">
+              <img id="u14511_img" class="img " src="images/我的爱车/u1543.png"/>
+              <div id="u14511_text" class="text ">
+                <p><span>3</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u14512" class="ax_default _需求字体">
+              <img id="u14512_img" class="img " src="images/我的爱车/u1544.png"/>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u14513" class="ax_default _需求字体">
+              <img id="u14513_img" class="img " src="images/我的爱车/u1545.png"/>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u14514" class="ax_default table_cell">
+              <img id="u14514_img" class="img " src="images/我的爱车/u1546.png"/>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u14515" class="ax_default _需求字体">
+              <img id="u14515_img" class="img " src="images/我的爱车/u1543.png"/>
+              <div id="u14515_text" class="text ">
+                <p><span>4</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u14516" class="ax_default _需求字体">
+              <img id="u14516_img" class="img " src="images/我的爱车/u1544.png"/>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u14517" class="ax_default _需求字体">
+              <img id="u14517_img" class="img " src="images/我的爱车/u1545.png"/>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u14518" class="ax_default table_cell">
+              <img id="u14518_img" class="img " src="images/我的爱车/u1546.png"/>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u14519" class="ax_default _需求字体">
+              <img id="u14519_img" class="img " src="images/我的爱车/u1543.png"/>
+              <div id="u14519_text" class="text ">
+                <p><span>5</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u14520" class="ax_default _需求字体">
+              <img id="u14520_img" class="img " src="images/我的爱车/u1544.png"/>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u14521" class="ax_default _需求字体">
+              <img id="u14521_img" class="img " src="images/我的爱车/u1545.png"/>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u14522" class="ax_default table_cell">
+              <img id="u14522_img" class="img " src="images/我的爱车/u1546.png"/>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u14523" class="ax_default _需求字体">
+              <img id="u14523_img" class="img " src="images/首页v1_1/u7784.png"/>
+              <div id="u14523_text" class="text ">
+                <p><span>6</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u14524" class="ax_default _需求字体">
+              <img id="u14524_img" class="img " src="images/首页v1_1/u7785.png"/>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u14525" class="ax_default _需求字体">
+              <img id="u14525_img" class="img " src="images/车辆估价/u1976.png"/>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u14526" class="ax_default table_cell">
+              <img id="u14526_img" class="img " src="images/车辆估价/u1977.png"/>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u14527" class="ax_default _需求字体">
+              <img id="u14527_img" class="img " src="images/我的车辆v1_1/u10507.png"/>
+              <div id="u14527_text" class="text ">
+                <p><span>7</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u14528" class="ax_default _需求字体">
+              <img id="u14528_img" class="img " src="images/我的车辆v1_1/u10508.png"/>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u14529" class="ax_default _需求字体">
+              <img id="u14529_img" class="img " src="images/车辆估价/u1984.png"/>
+            </div>
+
+            <!-- Unnamed (单元格) -->
+            <div id="u14530" class="ax_default table_cell">
+              <img id="u14530_img" class="img " src="images/车辆估价/u1985.png"/>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (占位符) -->
+      <div id="u14531" class="ax_default placeholder">
+        <img id="u14531_img" class="img " src="images/紧急救援/u14531.png"/>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u14532" class="ax_default image">
+        <img id="u14532_img" class="img " src="images/车辆估价/u1994.png"/>
+      </div>
+    </div>
+  </body>
+</html>
